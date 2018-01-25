@@ -10,13 +10,15 @@
     "doc3": "This is document number 3",
     "doc4": "Other Document",
     "doc5": "Fifth Document",
-    "Docs": "Docs",
-    "API": "API",
-    "Help": "Help",
-    "Blog": "Blog",
+    "system-overview": "ภาพรวม",
+    "คู่มือ": "คู่มือ",
+    "คุณสมบัติ": "คุณสมบัติ",
+    "ช่วยเหลือ": "ช่วยเหลือ",
+    "บล็อก": "บล็อก",
     "Docusaurus": "Docusaurus",
     "First Category": "First Category",
-    "Second Category": "Second Category"
+    "Second Category": "Second Category",
+    "คุณสมบัติของระบบ": "คุณสมบัติของระบบ"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
