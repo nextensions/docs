@@ -29,7 +29,7 @@ const siteConfig = {
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: "img/nextschool.svg",
+  headerIcon: "img/nextschool_invert.svg",
   footerIcon: "img/nextschool.svg",
   favicon: "img/favicon.png",
   /* colors for website */
