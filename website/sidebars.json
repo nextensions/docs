@@ -5,6 +5,7 @@
     "Second Category": ["doc3"]
   },
   "docs-other": {
-    "คุณสมบัติของระบบ": ["system-overview", "doc4", "doc5"]
+    "คุณสมบัติของระบบ": ["system-overview"],
+    "ระบบหลัก": ["clockin", "scaninclass", "foodcourt"]
   }
 }

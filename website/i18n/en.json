@@ -4,13 +4,17 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "A website for testing",
+    "clockin": "ระบบบันทึกเวลาการมาโรงเรียน",
+    "ระบบบันทึกเวลา": "ระบบบันทึกเวลา",
     "doc1": "Latin-ish",
     "Example Page": "Example Page",
     "doc2": "document number 2",
     "doc3": "This is document number 3",
     "doc4": "Other Document",
     "doc5": "Fifth Document",
-    "system-overview": "ภาพรวม",
+    "foodcourt": "ระบบศูนย์อาหาร",
+    "scaninclass": "ระบบเช็คชื่อรายวิชา",
+    "system-overview": "ภาพรวมของระบบ",
     "คู่มือ": "คู่มือ",
     "คุณสมบัติ": "คุณสมบัติ",
     "ช่วยเหลือ": "ช่วยเหลือ",
@@ -18,7 +22,8 @@
     "Docusaurus": "Docusaurus",
     "First Category": "First Category",
     "Second Category": "Second Category",
-    "คุณสมบัติของระบบ": "คุณสมบัติของระบบ"
+    "คุณสมบัติของระบบ": "คุณสมบัติของระบบ",
+    "ระบบหลัก": "ระบบหลัก"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

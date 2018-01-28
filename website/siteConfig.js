@@ -20,7 +20,7 @@ const siteConfig = {
   tagline: "A website for testing",
   url: "http://localhost:3000" /* your website url */,
   baseUrl: "/" /* base url for your project */,
-  projectName: "test-site",
+  projectName: "nextschool",
   headerLinks: [
     { doc: "doc1", label: "คู่มือ" },
     { doc: "system-overview", label: "คุณสมบัติ" },
