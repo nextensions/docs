@@ -19,7 +19,7 @@ const siteConfig = {
   title: "NextSchool" /* title for your website */,
   tagline: "A website for testing",
   url: "http://localhost:3000" /* your website url */,
-  baseUrl: "/" /* base url for your project */,
+  baseUrl: "/NSDoc/" /* base url for your project */,
   projectName: "nextschool",
   headerLinks: [
     { doc: "doc1", label: "คู่มือ" },
@@ -45,9 +45,9 @@ const siteConfig = {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: "default"
   },
-  scripts: ["https://buttons.github.io/buttons.js"]
+  scripts: ["https://buttons.github.io/buttons.js"],
   // You may provide arbitrary config keys to be used as needed by your template.
-  // repoUrl: "https://github.com/facebook/test-site"
+  repoUrl: "https://github.com/pangpond/NSDoc"
 };
 
 module.exports = siteConfig;
