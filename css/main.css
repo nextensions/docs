@@ -1829,3 +1829,21 @@ footer .copyright {
 nav.toc .toggleNav ul li a {
   font-size: 16px;
 }
+
+.imageAlignTop .blockImage {
+  max-width: 160px;
+}
+
+.productShowcaseSection {
+  background-color: #ffffff;
+}
+
+.productShowcaseSection .logos a {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.productShowcaseSection h2 {
+  margin-top: 0;
+  padding-top: 40px;
+}
