@@ -19,7 +19,7 @@ const siteConfig = {
   title: "NextSchool" /* title for your website */,
   tagline: "A website for testing",
   url: "http://docs.nextschool.io/" /* your website url */,
-  baseUrl: "/NSDoc/" /* base url for your project */,
+  baseUrl: "/" /* base url for your project */,
   projectName: "nextschool",
   headerLinks: [
     { doc: "doc1", label: "คู่มือ" },
@@ -40,7 +40,7 @@ const siteConfig = {
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright: "Copyright © " + new Date().getFullYear() + " Nextgensoft",
   organizationName: "nextensions", // or set an env variable ORGANIZATION_NAME
-  projectName: "NSDoc", // or set an env variable PROJECT_NAME
+  projectName: "docs", // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: "default"
