@@ -18,7 +18,7 @@ const users = [
 const siteConfig = {
   title: "NextSchool" /* title for your website */,
   tagline: "A website for testing",
-  url: "http://localhost:3000" /* your website url */,
+  url: "http://docs.nextschool.io/" /* your website url */,
   baseUrl: "/NSDoc/" /* base url for your project */,
   projectName: "nextschool",
   headerLinks: [
@@ -39,7 +39,7 @@ const siteConfig = {
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright: "Copyright © " + new Date().getFullYear() + " Nextgensoft",
-  organizationName: "pangpond", // or set an env variable ORGANIZATION_NAME
+  organizationName: "nextensions", // or set an env variable ORGANIZATION_NAME
   projectName: "NSDoc", // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
@@ -47,7 +47,7 @@ const siteConfig = {
   },
   scripts: ["https://buttons.github.io/buttons.js"],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: "https://github.com/pangpond/NSDoc"
+  repoUrl: "https://github.com/nextensions/NSDoc"
 };
 
 module.exports = siteConfig;
