@@ -8,8 +8,26 @@
 /* List of projects/orgs using your project for the users page */
 const users = [
   {
-    caption: "User1",
-    image: "/test-site/img/nextschool.svg",
+    caption: "โรงเรียนเทพศิรินทร์สมุทรปราการ",
+    image: "/img/school/โรงเรียนเทพศิรินทร์สมุทรปราการ.jpg",
+    infoLink: "https://www.facebook.com",
+    pinned: true
+  },
+  {
+    caption: "โรงเรียนเทพศิรินทร์สมุทรปราการ",
+    image: "/img/school/โรงเรียนเทพศิรินทร์สมุทรปราการ.jpg",
+    infoLink: "https://www.facebook.com",
+    pinned: true
+  },
+  {
+    caption: "โรงเรียนเทพศิรินทร์สมุทรปราการ",
+    image: "/img/school/โรงเรียนเทพศิรินทร์สมุทรปราการ.jpg",
+    infoLink: "https://www.facebook.com",
+    pinned: true
+  },
+  {
+    caption: "โรงเรียนเทพศิรินทร์สมุทรปราการ",
+    image: "/img/school/โรงเรียนเทพศิรินทร์สมุทรปราการ.jpg",
     infoLink: "https://www.facebook.com",
     pinned: true
   }
@@ -17,7 +35,7 @@ const users = [
 
 const siteConfig = {
   title: "NextSchool" /* title for your website */,
-  tagline: "A website for testing",
+  tagline: "ระบบบริหารสถานศึกษาครบวงจร",
   url: "http://docs.nextschool.io/" /* your website url */,
   baseUrl: "/" /* base url for your project */,
   projectName: "nextschool",

@@ -80,9 +80,11 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl("doc1.html", language)}>Example Link</Button>
-            <Button href={docUrl("doc2.html", language)}>Example Link 2</Button>
+            <Button href={docUrl("doc1.html", language)}>คู่มือ</Button>
+            <Button href={docUrl("system-overview.html", language)}>
+              คุณสมบัติของระบบ
+            </Button>
+            <Button href={pageUrl("help.html", language)}>ช่วยเหลือ</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -104,16 +106,32 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: "This is the content of my feature",
-        image: imgUrl("nextschool.svg"),
+        content:
+          "ติดตั้งได้ทุกที่ ออนไลน์ 24 ชั่วโมง<br />ผลิตเครื่องเองรายเดียวในตลาด<br />ไม่ใช้เน็ตโรงเรียน แบตสำรอง 3 วัน",
+        image: imgUrl("terminal.png"),
         imageAlign: "top",
-        title: "Feature One"
+        title: "บันทึกเวลา"
       },
       {
-        content: "The content of my second feature",
-        image: imgUrl("nextschool.svg"),
+        content:
+          "ผ่านเครื่องสแกนบัตรเคลื่อนที่<br />ดูปพ. 5 ออนไลน์ แค่แตะก็เช็คชื่อ<br />ไม่ต้องค้นหา ไม่ต้องขานชื่อ",
+        image: imgUrl("terminal.png"),
         imageAlign: "top",
-        title: "Feature Two"
+        title: "เช็คชื่อรายวิชา"
+      },
+      {
+        content:
+          "สร้างรายได้ให้สถานศึกษา<br />รู้ยอดขาย Realtime บริหารร้านค้าฉับไว<br />ดูประวัติการใช้จ่ายออนไลน์<br />",
+        image: imgUrl("terminal.png"),
+        imageAlign: "top",
+        title: "ศูนย์อาหาร"
+      },
+      {
+        content:
+          "ครอบคลุมทุกกิจกรรม<br />รับสมัครนักเรียน ห้องสมุด<br />แจ้งเกรดรายวิชา จัดตารางสอน",
+        image: imgUrl("terminal.png"),
+        imageAlign: "top",
+        title: "ระบบพื้นฐาน"
       }
     ]}
   </Block>
@@ -147,7 +165,7 @@ const TryOut = props => (
     {[
       {
         content: "Talk about trying this out",
-        image: imgUrl("nextschool.svg"),
+        image: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
         imageAlign: "left",
         title: "Try it Out"
       }
@@ -159,10 +177,11 @@ const Description = props => (
   <Block background="dark">
     {[
       {
-        content: "This is another description of how this project is useful",
-        image: imgUrl("nextschool.svg"),
+        content: "เราดูแลแบบเข้าถึง",
+        image: "http://qr-official.line.me/L/oW3mulHHEg.png",
         imageAlign: "right",
-        title: "Description"
+        title: "Description",
+        url: "https://line.me/R/ti/p/%40bnh5161k"
       }
     ]}
   </Block>
@@ -180,14 +199,16 @@ const Showcase = props => {
       return (
         <a href={user.infoLink} key={i}>
           <img src={user.image} title={user.caption} />
+          <br />
+          {user.caption}
         </a>
       );
     });
 
   return (
     <div className="productShowcaseSection paddingBottom">
-      <h2>{"Who's Using This?"}</h2>
-      <p>This project is used by all these people</p>
+      <h2>{"มีใครใช้บ้าง?"}</h2>
+      <p>ลูกค้าปัจจุบัน ที่ใช้งาน NextSchool อย่างมีความสุข</p>
       <div className="logos">{showcase}</div>
       <div className="more-users">
         <a className="button" href={pageUrl("users.html", props.language)}>
