@@ -121,7 +121,7 @@ const Features = props => (
       },
       {
         content:
-          "สร้างรายได้ให้สถานศึกษา<br />รู้ยอดขาย Realtime บริหารร้านค้าฉับไว<br />ดูประวัติการใช้จ่ายออนไลน์<br />",
+          "สร้างรายได้ให้สถานศึกษา<br />รู้ยอดขาย Realtime<br />ดูประวัติการใช้จ่ายออนไลน์<br />",
         image: imgUrl("terminal.png"),
         imageAlign: "top",
         title: "ศูนย์อาหาร"
@@ -177,7 +177,7 @@ const Description = props => (
   <Block background="dark">
     {[
       {
-        content: "เราดูแลแบบเข้าถึง",
+        content: "เราดูแลแบบเข้าถึง ด้วยทีมงานบริการลูกค้ามืออาชีพ",
         image: "http://qr-official.line.me/L/oW3mulHHEg.png",
         imageAlign: "right",
         title: "Description",

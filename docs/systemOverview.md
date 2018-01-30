@@ -19,9 +19,9 @@ NextSchool เป็นระบบบริหารสถานศึกษา
 
 ## ระบบหลัก
 
-1. [ระบบบันทึกเวลาการมาโรงเรียน และกลับบ้านของนักเรียน/ครู](/NSDoc/docs/clockin.html)
-2. [ระบบเช็คชื่อรายวิชา](/NSDoc/docs/scaninclass.html)
-3. [ระบบศูนย์อาหาร](/NSDoc/docs/foodcourt.html)
+1. [ระบบบันทึกเวลาการมาโรงเรียน และกลับบ้านของนักเรียน/ครู](/docs/clockin.html)
+2. [ระบบเช็คชื่อรายวิชา](/docs/scaninclass.html)
+3. [ระบบศูนย์อาหาร](/docs/foodcourt.html)
 
 ## ระบบพื้นฐาน
 

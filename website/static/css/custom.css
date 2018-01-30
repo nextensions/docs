@@ -10,6 +10,9 @@
 }
 
 @media only screen and (min-width: 1400px) {
+  .gridBlock .fourByGridBlock {
+    padding: 10px 10px;
+  }
 }
 
 @media only screen and (min-width: 1500px) {
