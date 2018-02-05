@@ -1821,6 +1821,9 @@ footer .copyright {
 }
 
 @media only screen and (min-width: 1400px) {
+  .gridBlock .fourByGridBlock {
+    padding: 10px 10px;
+  }
 }
 
 @media only screen and (min-width: 1500px) {
@@ -1846,4 +1849,14 @@ nav.toc .toggleNav ul li a {
 .productShowcaseSection h2 {
   margin-top: 0;
   padding-top: 40px;
+}
+
+.mainContainer .wrapper .post h2 {
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.container .wrapper h3,
+.mainContainer .wrapper .post h3 {
+  color: #616161;
+  font-weight: bold;
 }
