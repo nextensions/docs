@@ -39,3 +39,13 @@ nav.toc .toggleNav ul li a {
   margin-top: 0;
   padding-top: 40px;
 }
+
+.mainContainer .wrapper .post h2 {
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.container .wrapper h3,
+.mainContainer .wrapper .post h3 {
+  color: #616161;
+  font-weight: bold;
+}
