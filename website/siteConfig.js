@@ -43,7 +43,8 @@ const siteConfig = {
     { doc: "doc1", label: "คู่มือ" },
     { doc: "system-overview", label: "คุณสมบัติ" },
     { page: "help", label: "ช่วยเหลือ" },
-    { blog: true, label: "บล็อก" }
+    { blog: true, label: "บล็อก" },
+    { search: true }
   ],
   users,
   /* path to images for header/footer */
@@ -65,7 +66,11 @@ const siteConfig = {
   },
   scripts: ["https://buttons.github.io/buttons.js"],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: "https://github.com/nextensions/NSDoc"
+  repoUrl: "https://github.com/nextensions/NSDoc",
+  algolia: {
+    apiKey: "4fdd1e6cb553f663788dc3f2a3efd519",
+    indexName: "nextschool"
+  },
 };
 
 module.exports = siteConfig;
