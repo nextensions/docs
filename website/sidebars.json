@@ -7,7 +7,7 @@
   "docs-other": {
     "คุณสมบัติของระบบ": ["system-overview"],
     "ระบบหลัก": ["clockin", "scaninclass", "foodcourt"],
-    "ระบบใหม่ล่าสุด": ["timetable", "library"],
+    "ระบบใหม่ล่าสุด": ["admission", "library"],
     "ระบบพื้นฐาน": ["sdq", "gpa"]
   }
 }
