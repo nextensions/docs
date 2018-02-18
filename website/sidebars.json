@@ -8,6 +8,20 @@
     "คุณสมบัติของระบบ": ["system-overview"],
     "ระบบหลัก": ["clockin", "scaninclass", "foodcourt"],
     "ระบบใหม่ล่าสุด": ["admission", "library"],
-    "ระบบพื้นฐาน": ["sdq", "gpa"]
+    "ระบบพื้นฐาน": [
+      "announce",
+      "gpa",
+      "behavior",
+      "homework",
+      "students",
+      "sdq",
+      "health",
+      "course",
+      "bi",
+      "report",
+      "parent",
+      "permission",
+      "settings"
+    ]
   }
 }
