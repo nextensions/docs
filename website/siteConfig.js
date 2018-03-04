@@ -35,7 +35,7 @@ const users = [
 
 const siteConfig = {
   title: "NextSchool" /* title for your website */,
-  tagline: "ระบบบริหารสถานศึกษาครบวงจร",
+  tagline: "คู่มือระบบบริหารสถานศึกษาครบวงจร",
   url: "http://docs.nextschool.io/" /* your website url */,
   baseUrl: "/" /* base url for your project */,
   projectName: "nextschool",

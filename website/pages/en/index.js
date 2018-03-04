@@ -108,30 +108,34 @@ const Features = props => (
       {
         content:
           "ติดตั้งได้ทุกที่ ออนไลน์ 24 ชั่วโมง<br />ผลิตเครื่องเองรายเดียวในตลาด<br />ไม่ใช้เน็ตโรงเรียน แบตสำรอง 3 วัน",
-        image: imgUrl("terminal.png"),
+        image: imgUrl("terminal-180x180.png"),
         imageAlign: "top",
-        title: "บันทึกเวลา"
+        title: "บันทึกเวลา",
+        imageLink: siteConfig.baseUrl + "docs/clockin.html"
       },
       {
         content:
           "ผ่านเครื่องสแกนบัตรเคลื่อนที่<br />ดูปพ. 5 ออนไลน์ แค่แตะก็เช็คชื่อ<br />ไม่ต้องค้นหา ไม่ต้องขานชื่อ",
-        image: imgUrl("terminal.png"),
+        image: imgUrl("sic-180x180.png"),
         imageAlign: "top",
-        title: "เช็คชื่อรายวิชา"
+        title: "เช็คชื่อรายวิชา",
+        imageLink: siteConfig.baseUrl + "docs/scaninclass.html"
       },
       {
         content:
           "สร้างรายได้ให้สถานศึกษา<br />รู้ยอดขาย Realtime<br />ดูประวัติการใช้จ่ายออนไลน์<br />",
-        image: imgUrl("terminal.png"),
+        image: imgUrl("fc-180x180.png"),
         imageAlign: "top",
-        title: "ศูนย์อาหาร"
+        title: "ศูนย์อาหาร",
+        imageLink: siteConfig.baseUrl + "docs/foodcourt.html"
       },
       {
         content:
           "ครอบคลุมทุกกิจกรรม<br />รับสมัครนักเรียน ห้องสมุด<br />แจ้งเกรดรายวิชา จัดตารางสอน",
-        image: imgUrl("terminal.png"),
+        image: imgUrl("system-180x180.png"),
         imageAlign: "top",
-        title: "ระบบพื้นฐาน"
+        title: "ระบบพื้นฐาน",
+        imageLink: siteConfig.baseUrl + "docs/announce.html"
       }
     ]}
   </Block>
@@ -228,11 +232,11 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer">
           <Features />
-          <FeatureCallout />
+          {/*<FeatureCallout />
           <LearnHow />
           <TryOut />
           <Description />
-          <Showcase language={language} />
+          <Showcase language={language} />*/}
         </div>
       </div>
     );
