@@ -14,7 +14,6 @@
 <url> <loc>http://docs.nextschool.io/docs/bi.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/bi.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/clockin.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/clockin.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/course.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/course.html" /> </url>
-<url> <loc>http://docs.nextschool.io/docs/doc1.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/doc1.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/doc2.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/doc2.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/doc3.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/doc3.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/doc4.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/doc4.html" /> </url>
@@ -24,6 +23,8 @@
 <url> <loc>http://docs.nextschool.io/docs/health.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/health.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/homework.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/homework.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/library.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/library.html" /> </url>
+<url> <loc>http://docs.nextschool.io/docs/manual-timetable.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/manual-timetable.html" /> </url>
+<url> <loc>http://docs.nextschool.io/docs/manual.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/manual.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/parent.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/parent.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/permission.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/permission.html" /> </url>
 <url> <loc>http://docs.nextschool.io/docs/raw.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://docs.nextschool.io/docs/raw.html" /> </url>
