@@ -40,7 +40,7 @@ const siteConfig = {
   baseUrl: "/" /* base url for your project */,
   projectName: "nextschool",
   headerLinks: [
-    { doc: "doc1", label: "คู่มือ" },
+    { doc: "manual", label: "คู่มือ" },
     { doc: "system-overview", label: "คุณสมบัติ" },
     { page: "help", label: "ช่วยเหลือ" },
     { blog: true, label: "บล็อก" },
@@ -70,7 +70,7 @@ const siteConfig = {
   algolia: {
     apiKey: "4fdd1e6cb553f663788dc3f2a3efd519",
     indexName: "nextschool"
-  },
+  }
 };
 
 module.exports = siteConfig;
