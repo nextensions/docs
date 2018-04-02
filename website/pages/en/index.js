@@ -80,11 +80,11 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl("doc1.html", language)}>คู่มือ</Button>
+            <Button href={docUrl("manual.html", language)}>คู่มือ</Button>
             <Button href={docUrl("system-overview.html", language)}>
               คุณสมบัติของระบบ
             </Button>
-            <Button href={pageUrl("help.html", language)}>ช่วยเหลือ</Button>
+            <Button href={pageUrl("faq.html", language)}>คำถามที่ถามบ่อย</Button>
           </PromoSection>
         </div>
       </SplashContainer>

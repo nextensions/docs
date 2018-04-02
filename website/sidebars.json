@@ -1,4 +1,10 @@
 {
+  "manual": {
+    "คู่มือการใช้งาน": ["manual-login", "manual-timetable"]
+  },
+  "faq": {
+    "คำถามที่ถามบ่อย": ["faq-001-addstudent", "faq-002-editstudentdata"]
+  },
   "docs": {
     "Docusaurus": ["doc1"],
     "First Category": ["doc2"],

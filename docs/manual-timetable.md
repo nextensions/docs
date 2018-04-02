@@ -1,6 +1,7 @@
 ---
 id: manual-timetable
-title: คู่มือการช่วยจัดตารางสอน
+title: การจัดตารางสอน
+sidebar_label: การจัดตารางสอน
 ---
 
 <font face="kittithadaLight45">

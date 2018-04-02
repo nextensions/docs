@@ -42,7 +42,7 @@ const siteConfig = {
   headerLinks: [
     { doc: "manual", label: "คู่มือ" },
     { doc: "system-overview", label: "คุณสมบัติ" },
-    { page: "help", label: "ช่วยเหลือ" },
+    { doc: "faq", label: "คำถามที่ถามบ่อย" },
     { blog: true, label: "บล็อก" },
     { search: true }
   ],
