@@ -1860,3 +1860,9 @@ nav.toc .toggleNav ul li a {
   color: #616161;
   font-weight: bold;
 }
+
+@media only screen and (min-width: 1200px) {
+  .homeContainer .homeWrapper .projectLogo img {
+    height: 150%;
+  }
+}
