@@ -1,3 +1,9 @@
+---
+id: faq-032-reportsdq
+title: รายงาน SDQ
+sidebar_label: รายงาน SDQ
+---
+
 ## Q: การดูรายงาน SDQ
 
 ### ไปที่เมนู SDQ สถานะการประเมิน
