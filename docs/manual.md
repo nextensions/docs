@@ -1,4 +1,4 @@
----
+---manual-schoolevent
 id: manual
 title: คู่มือการใช้งาน
 sidebar_label: คู่มือการใช้งาน
@@ -11,3 +11,5 @@ sidebar_label: คู่มือการใช้งาน
 * [การเพิ่มข้อมูลนักเรียนเข้าใหม่](/docs/manual-addstudent.html)
 * [บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม](/docs/manual-studentclockin.html)
 * [การสร้างกิจกรรมโรงเรียน](/docs/manual-schoolevent.html)
+* [การสร้างกิจกรรมโรงเรียน](/docs/manual-studentleave.html)
+
