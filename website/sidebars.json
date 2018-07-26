@@ -1,6 +1,6 @@
 {
   "manual": {
-    "คู่มือการใช้งาน": ["manual-login", "manual-timetable", "manual-addstudent", "manual-studentclockin"]
+    "คู่มือการใช้งาน": ["manual-login", "manual-timetable", "manual-addstudent", "manual-studentclockin", "manual-schoolevent"]
   },
   "faq": {
     "คำถามที่ถามบ่อย": [
