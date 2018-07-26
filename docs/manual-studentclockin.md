@@ -1,5 +1,5 @@
 ---
-id: manual-studentclockin
+id: manual-student_clockin
 title: บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม
 ---
 
@@ -13,7 +13,7 @@ title: บันทึกการลงเวลาของนักเรี�
  
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1VOLKZSmXKTuhbO3HBqx0_jj4kdXe-l9J/preview" frameborder="0" allowfullscreen="true"> </iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/-3XJn3mRRUY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
@@ -21,11 +21,9 @@ title: บันทึกการลงเวลาของนักเรี�
 * ไปที่เมนูการลงเวลา
 * บันทึกการลงเวลา
 * เพิ่มบันทึกการลงเวลาแบบกลุ่ม
-
+ 
 <!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1EptdYKL84nbDVwCdGkvgk_iN9LQEdgsY/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXJVS3b47XE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!-- blank line -->
 
 
@@ -33,9 +31,8 @@ title: บันทึกการลงเวลาของนักเรี�
 * กดปุ่มลงเวลา
 
 <!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1eBb2TiLVPUpqA_5gQXfERwrRUIy3uENu/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YAJXcOqYIc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <!-- blank line -->
 
     
