@@ -1,5 +1,5 @@
 ---
-id: manual-student_clockin
+id: manual-studentclockin
 title: บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม
 ---
 
