@@ -1,4 +1,4 @@
----manual-schoolevent
+---
 id: manual
 title: คู่มือการใช้งาน
 sidebar_label: คู่มือการใช้งาน
