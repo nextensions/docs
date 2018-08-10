@@ -3,9 +3,7 @@ id: manual-Health
 title: บันทึกข้อมูลสุขภาพ
 ---
 
-## ไปที่เมนูนักเรียน
-
-1. กดปุ่มสุขภาพ
+1. ไปที่เมนูนักเรียน -> กดปุ่มสุขภาพ
 2. บันทึกข้อมูลสุขภาพ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FqMfGTJTuD4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
