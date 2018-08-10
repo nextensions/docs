@@ -7,7 +7,9 @@ title: การเพิ่มข้อมูลนักเรียนเข�
 <!-- blank line -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_rFJAbeOcro?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!-- blank line -->
+ 
 * กดเครื่องหมาย + เพื่อเพิ่มข้อมูลรายบุคคล
+
 
 <!-- blank line -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4T5-CZ1W80?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
