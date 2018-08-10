@@ -1,6 +1,14 @@
 {
   "manual": {
-    "คู่มือการใช้งาน": ["manual-login", "manual-timetable", "manual-addstudent", "manual-studentclockin"]
+    "คู่มือการใช้งาน": [
+      "manual-login",
+       "manual-timetable",
+       "manual-addstudent",
+       "manual-studentclockin",
+       "manual-borrowsparecard",
+       "manual-homework",
+       "manual-gpaannounce"
+      ]
   },
   "faq": {
     "คำถามที่ถามบ่อย": [
