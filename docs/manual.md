@@ -16,7 +16,7 @@ sidebar_label: คู่มือการใช้งาน
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
 * [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-news.html)
-
-
-
-
+* [การยืม-คืนบัตรสำรอง](/docs/manual-borrowsparecard.html)
+* [การบ้าน](/docs/manual-homework.html)
+* [การลาของครู](/docs/manual-teacherleave.html)
+* [แจ้งข่าวสาร GPA](/docs/manual-gpaannounce.html)

@@ -10,8 +10,11 @@
       "manual-decreasementpoint",
       "manual-Health",
       "manual-teacherclockin",
-      "manual-news"
-    ]
+      "manual-news",
+       "manual-borrowsparecard",
+       "manual-homework",
+       "manual-gpaannounce"
+     ]
   },
   "faq": {
     "คำถามที่ถามบ่อย": [
