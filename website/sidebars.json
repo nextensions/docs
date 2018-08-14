@@ -2,13 +2,19 @@
   "manual": {
     "คู่มือการใช้งาน": [
       "manual-login",
-       "manual-timetable",
-       "manual-addstudent",
-       "manual-studentclockin",
-       "manual-borrowsparecard",
-       "manual-homework",
-       "manual-gpaannounce"
-      ]
+      "manual-timetable",
+      "manual-addstudent",
+      "manual-studentclockin",
+      "manual-borrowsparecard",
+      "manual-homework",
+      "manual-gpaannounce",
+      "manual-schoolevent",
+      "manual-studentleave",
+      "manual-decreasementpoint",
+      "manual-Health",
+      "manual-teacherclockin",
+      "manual-news"
+    ]
   },
   "faq": {
     "คำถามที่ถามบ่อย": [
@@ -56,14 +62,29 @@
     ]
   },
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Docusaurus": [
+      "doc1"
+    ],
+    "First Category": [
+      "doc2"
+    ],
+    "Second Category": [
+      "doc3"
+    ]
   },
   "docs-other": {
-    "คุณสมบัติของระบบ": ["system-overview"],
-    "ระบบหลัก": ["clockin", "scaninclass", "foodcourt"],
-    "ระบบใหม่ล่าสุด": ["admission", "library"],
+    "คุณสมบัติของระบบ": [
+      "system-overview"
+    ],
+    "ระบบหลัก": [
+      "clockin",
+      "scaninclass",
+      "foodcourt"
+    ],
+    "ระบบใหม่ล่าสุด": [
+      "admission",
+      "library"
+    ],
     "ระบบพื้นฐาน": [
       "announce",
       "gpa",
