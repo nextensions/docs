@@ -15,7 +15,12 @@ title: บันทึกการลงเวลาของบุคลาก�
 <!-- blank line -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttdh-eVj2A4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!-- blank line -->
+
+
 3. กรอกข้อมูลบุคลากรและเวลาที่จะบันทึก
+
+
+
 4. กดปุ่ม **เพิ่ม**
 
 <!-- blank line -->
