@@ -1,5 +1,5 @@
 ---
-id: manual-news
+id: manual-schoolnews
 title: การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน 
 ---
 
@@ -13,7 +13,9 @@ title: การแจ้งข่าวสารแบบกลุ่ม แบ
 * เลือกประเภทที่ต้องการส่งข้อความ
 * คลิ๊ก **ส่งข้อความ**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vRyc3sGXnek?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=1Bh7wpcagJpqAtTcW11We3qnDBauAjDG4&sz=w1000-h640)
+
+![](https://drive.google.com/thumbnail?id=1ezewDsUs6JyVnsT5_3SX3SHYXSX5m3Zt&sz=w1000-h640)
 
 **2. แบบเฉพาะกลุ่มนักเรียน**
 * เลือกระดับชั้นเรียน (สามารถเลือกระดับชั้นเรียนได้มากกว่า 1 ห้องขึ้นไป)
@@ -22,7 +24,10 @@ title: การแจ้งข่าวสารแบบกลุ่ม แบ
 * เลือกประเภทที่ต้องการส่งข้อความ
 * คลิ๊ก **ส่งข้อความ**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QvtMcS65vgE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=13IUXxu-UuozSEQmm2YibOTxnvMetBx1p&sz=w1000-h640)
+
+![](https://drive.google.com/thumbnail?id=1muV6W3gbjLBkQeZO-TGB_0YTWhdRJ4Uh&sz=w1000-h640)
+
 
 **3. แบบเฉพาะบุคลากร**
 * เลือกกรอกชื่อบุคลากร (สามารถเพิ่มชื่อบุคลากรได้มากกว่า 1 คนขึ้นไป)
@@ -31,7 +36,9 @@ title: การแจ้งข่าวสารแบบกลุ่ม แบ
 * เลือกประเภทที่ต้องการส่งข้อความ
 * คลิ๊ก **ส่งข้อความ**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28tcvooPOb8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=1B4ejZNTT_7EGvA6cY_1jUC5g6MhBJrN6&sz=w1000-h640)
+
+![](https://drive.google.com/thumbnail?id=19HYorzii4hQ7ss73_LJ5_JGhV55TqHbb&sz=w1000-h640)
 
 **4. แบบเฉพาะกลุ่มบุคลากร**
 * เลือกกลุ่มงานบุคลากร (สามารถเลือกกลุ่มงานบุคลากรได้มากกว่า 1 กลุ่มขึ้นไป)
@@ -40,4 +47,5 @@ title: การแจ้งข่าวสารแบบกลุ่ม แบ
 * เลือกประเภทที่ต้องการส่งข้อความ
 * คลิ๊ก **ส่งข้อความ**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9yEYZQJK60?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=1JaeUbfPnSgkw33C1PSYxYWR8nq92uXvE&sz=w1000-h640)
+

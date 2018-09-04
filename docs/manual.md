@@ -19,4 +19,6 @@ sidebar_label: คู่มือการใช้งาน
 * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
 * [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
-* [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-news.html)
+* [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-schoolnews.html)
+* [บันทึกการลาของครู  ](/docs/manual-teacherleave.html)
+

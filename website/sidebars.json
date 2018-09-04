@@ -13,7 +13,8 @@
       "manual-decreasementpoint",
       "manual-Health",
       "manual-teacherclockin",
-      "manual-news"
+      "manual-schoolnews",
+      "manual-teacherleave"
     ]
   },
   "faq": {
