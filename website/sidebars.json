@@ -5,15 +5,15 @@
       "manual-timetable",
       "manual-addstudent",
       "manual-studentclockin",
+      "manual-teacherclockin",
       "manual-borrowsparecard",
       "manual-homework",
+      "manual-studentleave",
       "manual-teacherleave",
       "manual-gpaannounce",
       "manual-schoolevent",
-      "manual-studentleave",
       "manual-decreasementpoint",
       "manual-Health",
-      "manual-teacherclockin",
       "manual-schoolnews"
     ]
   },
