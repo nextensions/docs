@@ -7,14 +7,14 @@
       "manual-studentclockin",
       "manual-borrowsparecard",
       "manual-homework",
+      "manual-teacherleave",
       "manual-gpaannounce",
       "manual-schoolevent",
       "manual-studentleave",
       "manual-decreasementpoint",
       "manual-Health",
       "manual-teacherclockin",
-      "manual-schoolnews",
-      "manual-teacherleave"
+      "manual-schoolnews"
     ]
   },
   "faq": {

@@ -12,7 +12,7 @@ sidebar_label: คู่มือการใช้งาน
 * [บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม](/docs/manual-studentclockin.html)
 * [การยืม-คืนบัตรสำรอง](/docs/manual-borrowsparecard.html)
 * [การบ้าน](/docs/manual-homework.html)
-* [การลาของครู](/docs/manual-teacherleave.html)
+* [บันทึกการลาของครู](/docs/manual-teacherleave.html)
 * [แจ้งข่าวสาร GPA](/docs/manual-gpaannounce.html)
 * [การสร้างกิจกรรมโรงเรียน](/docs/manual-schoolevent.html)
 * [บันทึกการลารายบุคคล และ การลารายกลุ่ม](/docs/manual-studentleave.html)
@@ -20,5 +20,4 @@ sidebar_label: คู่มือการใช้งาน
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
 * [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-schoolnews.html)
-* [บันทึกการลาของครู  ](/docs/manual-teacherleave.html)
 
