@@ -107,7 +107,7 @@
     "library": "ระบบห้องสมุด",
     "manual-addstudent": "การเพิ่มข้อมูลนักเรียนเข้าใหม่",
     "manual-borrowsparecard": "การยืม-คืนบัตรสำรอง",
-    "manual-decreasementpoint": "บันทึกการตัดคะแนนของนักเรียน",
+    "manual-decreasementpoint": "การจัดการคะแนนความประพฤติ",
     "manual-gpaannounce": "แจ้งข่าวสาร GPA",
     "manual-Health": "บันทึกข้อมูลสุขภาพ",
     "manual-homework": "การบ้าน",
