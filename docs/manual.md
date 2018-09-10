@@ -20,4 +20,7 @@ sidebar_label: คู่มือการใช้งาน
 * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-schoolnews.html)
+* [การเช็คชื่อนักเรียนรายคาบรายวัน](/docs/manual-attendancecheck.html)
+* [การลาระหว่างวัน](/docs/manual-leavedatebetween.html)
+* [การยกเลิกการสอน](/docs/manual-cancelteaching.html)
 
