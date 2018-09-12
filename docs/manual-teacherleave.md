@@ -1,14 +1,19 @@
 ---
 id: manual-teacherleave
-title: การลงเวลาครู
+title: บันทึกการลาของครู 
 ---
-## การลงเวลา
 
-1. บันทึกลาครู > เพิ่มการลาครู
+## ไปที่เมนูการลงเวลา
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3rmQzE5wLms?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* บันทึกลาครู -> เพิ่มการลาครู
 
-2. กรอกข้อมูลผู้ลาประเภทการลา วันเวลา และหมายเหตุ
-3. กดปุ่ม **เพิ่ม**
+![](https://drive.google.com/thumbnail?id=1JLOEJ_jjsIY50NYIM8kna5NaJIDH61Mw&sz=w1000-h640)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UZN5JmxwSaA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* กรอกข้อมูลผู้ลาประเภทการลา วันเวลา และหมายเหตุ
+
+* กดปุ่ม เพิ่ม
+
+![](https://drive.google.com/thumbnail?id=1wU0As5-v-PK6FnmQ0q0lDk1sMdjNRQPd&sz=w1000-h640)
+
+![](https://drive.google.com/thumbnail?id=1FCRNl6YJBpJLmaxRwUcycfDg8EllPkaC&sz=w1000-h640)
+

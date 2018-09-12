@@ -1,43 +1,51 @@
 ---
-id: manual-news
+id: manual-schoolnews
 title: การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน 
 ---
 
 ## เข้าไปที่เมนูแจ้งข่าวสาร
 
 
- **1. แบบเฉพาะบุคคล**
+### 1. แบบเฉพาะบุคคล
 * กรอกชื่อนักเรียน (สามารถใส่ชื่อได้มากกว่า 1 คนขึ้นไป)
 * กรอกหัวข้อที่ต้องการเรียกพบ เช่น แจ้งนักเรียนให้มาที่ห้องกิจการนักเรียนในช่วงพักเที่ยงของวันนี้ เป็นต้น
 * พร้อมกับเนือหาที่ต้องการเรียกพบ เช่น นักเรียนได้ทุน นักกีฬาโรงเรียน หรือทำผิดกฏกับทางโรงเรียน เป็นต้น
 * เลือกประเภทที่ต้องการส่งข้อความ
-* คลิ๊ก **ส่งข้อความ**
+* กดปุ่ม ส่งข้อความ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vRyc3sGXnek?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=1Bh7wpcagJpqAtTcW11We3qnDBauAjDG4&sz=w1000-h640)
 
-**2. แบบเฉพาะกลุ่มนักเรียน**
+![](https://drive.google.com/thumbnail?id=1ezewDsUs6JyVnsT5_3SX3SHYXSX5m3Zt&sz=w1000-h640)
+
+### 2. แบบเฉพาะกลุ่มนักเรียน
 * เลือกระดับชั้นเรียน (สามารถเลือกระดับชั้นเรียนได้มากกว่า 1 ห้องขึ้นไป)
 * กรอกหัวข้อที่ต้องการเรียกพบ เช่น แจ้งย้ายห้องเรียน ทัศนศึกษา เป็นต้น
 * พร้อมกับเนือหาที่ต้องการเรียกพบ เช่น ย้ายห้องเรียนเดิมเรียนห้อง 1203 ย้ายมาgiupoที่ห้อง 2311 เป็นต้น
 * เลือกประเภทที่ต้องการส่งข้อความ
-* คลิ๊ก **ส่งข้อความ**
+* กดปุ่ม ส่งข้อความ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QvtMcS65vgE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=13IUXxu-UuozSEQmm2YibOTxnvMetBx1p&sz=w1000-h640)
 
-**3. แบบเฉพาะบุคลากร**
+![](https://drive.google.com/thumbnail?id=1muV6W3gbjLBkQeZO-TGB_0YTWhdRJ4Uh&sz=w1000-h640)
+
+
+### 3. แบบเฉพาะบุคลากร
 * เลือกกรอกชื่อบุคลากร (สามารถเพิ่มชื่อบุคลากรได้มากกว่า 1 คนขึ้นไป)
 * กรอกหัวข้อที่ต้องการเรียกพบ เช่น ประชุมงานทัศนศึกษา ประชุมงานวิชาการ เป็นต้น
 * พร้อมกับเนือหา เช่น จะเลือกระดับชั้นที่จะให้ไปทัศนศึกษา  เป็นต้น
 * เลือกประเภทที่ต้องการส่งข้อความ
-* คลิ๊ก **ส่งข้อความ**
+* กดปุ่ม ส่งข้อความ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28tcvooPOb8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=1B4ejZNTT_7EGvA6cY_1jUC5g6MhBJrN6&sz=w1000-h640)
 
-**4. แบบเฉพาะกลุ่มบุคลากร**
+![](https://drive.google.com/thumbnail?id=19HYorzii4hQ7ss73_LJ5_JGhV55TqHbb&sz=w1000-h640)
+
+### 4. แบบเฉพาะกลุ่มบุคลากร
 * เลือกกลุ่มงานบุคลากร (สามารถเลือกกลุ่มงานบุคลากรได้มากกว่า 1 กลุ่มขึ้นไป)
 * กรอกหัวข้อที่ต้องการเรียกพบ เช่น ทัศนศึกษาต่างประเทศ เป็นต้น
 * พร้อมกับเนือหา เช่น ต้องการให้มาทุกคนเพื่อต้องการทราบยอดผู้ที่จะไปทัศนศึกษาครั้งนี้  เป็นต้น
 * เลือกประเภทที่ต้องการส่งข้อความ
-* คลิ๊ก **ส่งข้อความ**
+* กดปุ่ม ส่งข้อความ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9yEYZQJK60?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://drive.google.com/thumbnail?id=1JaeUbfPnSgkw33C1PSYxYWR8nq92uXvE&sz=w1000-h640)
+
