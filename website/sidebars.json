@@ -13,7 +13,10 @@
       "manual-decreasementpoint",
       "manual-Health",
       "manual-teacherclockin",
-      "manual-news"
+      "manual-news",
+      "manual-schedule",
+      "manual-timetablestudent",
+      "manual-timetableteacher"
     ]
   },
   "faq": {

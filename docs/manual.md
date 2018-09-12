@@ -20,3 +20,6 @@ sidebar_label: คู่มือการใช้งาน
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
 * [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-news.html)
+* [ตารางสอน](/docs/manual-schedule.html)
+* [จัดตารางสอน(ครู)](/docs/manual-timetableteacher.html)
+* [จัดตารางสอน(นักเรียน)](/docs/manual-timetablestudent.html)
