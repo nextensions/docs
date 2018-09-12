@@ -24,3 +24,6 @@ sidebar_label: คู่มือการใช้งาน
 * [ตารางสอน](/docs/manual-schedule.html)
 * [จัดตารางสอน(ครู)](/docs/manual-timetableteacher.html)
 * [จัดตารางสอน(นักเรียน)](/docs/manual-timetablestudent.html)
+* [การเช็คชื่อนักเรียนรายคาบรายวัน](/docs/manual-attendancecheck.html)
+* [การลาระหว่างวัน](/docs/manual-leavedatebetween.html)
+* [การยกเลิกการสอน](/docs/manual-cancelteaching.html)

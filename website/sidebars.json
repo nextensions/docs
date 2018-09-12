@@ -14,12 +14,14 @@
       "manual-schoolevent",
       "manual-decreasementpoint",
       "manual-Health",
-      "manual-teacherclockin",
       "manual-news",
       "manual-schedule",
       "manual-timetablestudent",
       "manual-timetableteacher",
-      "manual-schoolnews"
+      "manual-schoolnews",
+      "manual-attendancecheck",
+      "manual-leavedatebetween",
+      "manual-cancelteaching"
     ]
   },
   "faq": {
