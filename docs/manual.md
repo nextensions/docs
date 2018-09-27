@@ -27,3 +27,5 @@ sidebar_label: คู่มือการใช้งาน
 * [การเช็คชื่อนักเรียนรายคาบรายวัน](/docs/manual-attendancecheck.html)
 * [การลาระหว่างวัน](/docs/manual-leavedatebetween.html)
 * [การยกเลิกการสอน](/docs/manual-cancelteaching.html)
+* [การประเมินด่วน EQ](/docs/manual-evaluationeq.html)
+* [สถานะการประเมิน EQ](/docs/manual-evaluationstatus.html)

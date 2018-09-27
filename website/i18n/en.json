@@ -110,6 +110,8 @@
     "manual-borrowsparecard": "การยืม-คืนบัตรสำรอง",
     "manual-cancelteaching": "การยกเลิกการสอน",
     "manual-decreasementpoint": "การจัดการคะแนนความประพฤติ",
+    "manual-evaluationeq": "การประเมินด่วน EQ",
+    "manual-evaluationstatus": "สถานะการประเมิน EQ",
     "manual-gpaannounce": "แจ้งข่าวสาร GPA",
     "manual-Health": "บันทึกข้อมูลสุขภาพ",
     "manual-homework": "การบ้าน",
