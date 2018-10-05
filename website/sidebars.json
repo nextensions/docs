@@ -19,7 +19,11 @@
       "manual-leavedatebetween",
       "manual-cancelteaching",
       "manual-evaluationeq",
-      "manual-evaluationstatus"
+      "manual-evaluationstatus",
+      "manual-admission",
+      "manual-register",
+      "manual-firstaid",
+      "manual-libraly"
     ]
   },
   "faq": {

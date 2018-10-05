@@ -19,11 +19,15 @@ sidebar_label: คู่มือการใช้งาน
 * [การสร้างกิจกรรมโรงเรียน](/docs/manual-schoolevent.html)
 * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
-* [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-schoolnews.html)
+* [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน](/docs/manual-schoolnews.html)
 * [การเช็คชื่อนักเรียนรายคาบรายวัน](/docs/manual-attendancecheck.html)
 * [การลาระหว่างวัน](/docs/manual-leavedatebetween.html)
 * [การยกเลิกการสอน](/docs/manual-cancelteaching.html)
 * [การประเมินด่วน EQ](/docs/manual-evaluationeq.html)
 * [สถานะการประเมิน EQ](/docs/manual-evaluationstatus.html)
+* [การเปิดรับสมัครสอบ Admission](/docs/manual-admission.html)
+* [การเปิดรับสมัครวิชาเลือก](/docs/manual-register.html)
+* [การใช้งานระบบห้องพยาบาล](/docs/manual-firstaid.html)
+* [การใช้งานระบบห้องสมุด](/docs/manual-libraly.html)
 
 
