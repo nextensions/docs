@@ -22,11 +22,14 @@ sidebar_label: คู่มือการใช้งาน
     * [การสร้างกิจกรรมโรงเรียน](/docs/manual-schoolevent.html)
     * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
     * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
+    * [การเปิดรับสมัครสอบ Admission](/docs/manual-admission.html)
+    * [การเปิดรับสมัครวิชาเลือก](/docs/manual-register.html)
+    * [การใช้งานระบบห้องพยาบาล](/docs/manual-firstaid.html)
+    * [การใช้งานระบบห้องสมุด](/docs/manual-libraly.html)
 * ครูทั่วไป
     * [การเข้าสู่ระบบ](/docs/manual-login.html)
   
 ## ผู้ปกครอง
-
 * [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน  ](/docs/manual-schoolnews.html)
 * [ตารางสอน](/docs/manual-schedule.html)
