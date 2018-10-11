@@ -26,7 +26,12 @@
       "manual-status-health-check",
       "manual-estimate-sdq",
       "manual-quick-estimate-sdq",
-      "manual-report-risk-sdq"
+      "manual-report-risk-sdq",
+      "manual-evaluationstatus",
+      "manual-admission",
+      "manual-register",
+      "manual-firstaid",
+      "manual-libraly"
     ]
   },
   "faq": {
