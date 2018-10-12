@@ -26,7 +26,7 @@ sidebar_label: คู่มือการใช้งาน
     * [การเปิดรับสมัครวิชาเลือก](/docs/manual-register.html)
     * [การใช้งานระบบห้องพยาบาล](/docs/manual-firstaid.html)
     * [การใช้งานระบบห้องสมุด](/docs/manual-libraly.html)
-* ครูทั่วไป
+* ครูทั่วไป/ที่ปรึกษา
     * [การเข้าสู่ระบบ](/docs/manual-login.html)
   
 ## ผู้ปกครอง
@@ -42,3 +42,4 @@ sidebar_label: คู่มือการใช้งาน
 * [สถานะการประเมิน EQ](/docs/manual-evaluationstatus.html)
 
 ## นักเรียน
+* เร็วๆ นี้
