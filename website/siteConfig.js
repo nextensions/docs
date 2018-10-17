@@ -51,6 +51,7 @@ const siteConfig = {
   headerIcon: "img/nextschool_invert.svg",
   footerIcon: "img/nextschool.svg",
   favicon: "img/favicon.png",
+  onPageNav: 'separate',
   /* colors for website */
   colors: {
     primaryColor: "#db5424",

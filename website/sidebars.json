@@ -1,37 +1,142 @@
 {
   "manual": {
-    "ครู/อาจารย์": [
+    "คู่มือการใช้งานสำหรับผู้ดูแลระบบ":[
       "manual-login",
-      "manual-timetable",
+      "manual-adminsetting",
       "manual-addstudent",
+      "manual-homework",
+      "manual-decreasementpoint",
+      "manual-borrowsparecard",
       "manual-studentclockin",
       "manual-teacherclockin",
-      "manual-borrowsparecard",
       "manual-studentleave",
-      "manual-gpaannounce",
-      "manual-decreasementpoint",
-      "manual-schoolnews",
-      "manual-schedule",
-      "manual-timetableteacher",
-      "manual-timetablestudent",
-      "manual-leavedatebetween",
-      "manual-homework",
       "manual-teacherleave",
       "manual-schoolevent",
-      "manual-Health",
-      "manual-attendancecheck",
+      "manual-gpaannounce",
+      "manual-schoolnews",
+      "manual-timetablestudent",
+      "manual-timetableteacher",
+      "manual-adminsetting-timetable",
+      "manual-leavedatebetween",
       "manual-cancelteaching",
-      "manual-evaluationeq",
-      "manual-evaluationstatus",
-      "manual-status-health-check",
-      "manual-estimate-sdq",
-      "manual-quick-estimate-sdq",
-      "manual-report-risk-sdq",
-      "manual-evaluationstatus",
+      "manual-timetable",
       "manual-admission",
       "manual-register",
       "manual-firstaid",
+      "manual-libraly",
+      "manual-store",
+      "manual-statusterminalled"
+    ],
+    "คู่มือการใช้งานสำหรับครูทั่วไป": [
+      "manual-login",
+      "manual-homework",
+      "manual-Health",
+      "manual-decreasementpoint",
+      "manual-studentleave",
+      "manual-schoolevent",
+      "manual-timetablestudent",
+      "manual-timetableteacher",
+      "manual-timetable",
+      "manual-attendancecheck",
+      "manual-leavedatebetween",
+      "manual-cancelteaching",
+      "manual-evaluationeq",
+      "manual-evaluationstatus",
+      "manual-timetable",
+      "manual-firstaid",
       "manual-libraly"
+    ]
+  },
+  "manual-teacheradmin": {
+    "คู่มือเกี่ยวกับเรื่องทั่วไป": [
+      "manual-login",
+      "manual-adminsetting"
+    ],
+    "คู่มือเกี่ยวกับข้อมูลนักเรียน":[
+      "manual-addstudent",
+      "manual-homework",
+      "manual-decreasementpoint",
+      "manual-Health"
+    ],
+    "คู่มือเกี่ยวกับการลงเวลา":[
+      "manual-borrowsparecard",
+      "manual-studentclockin",
+      "manual-teacherclockin",
+      "manual-studentleave",
+      "manual-teacherleave",
+      "manual-schoolevent"
+    ],
+    "คู่มือเกี่ยวกับการแจ้งข่าวสาร":[
+      "manual-gpaannounce",
+      "manual-schoolnews"
+    ],
+    "คู่มือเกี่ยวกับวิชาเรียน" :[
+      "manual-timetablestudent",
+      "manual-timetableteacher",
+      "manual-leavedatebetween",
+      "manual-cancelteaching",
+      "manual-adminsetting-timetable"
+    ],
+    "คู่มือการประเมินพฤติกรรม":[
+      "manual-evaluationeq",
+      "manual-evaluationstatus"
+    ],
+    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน":[
+      "manual-timetable",
+      "manual-admission",
+      "manual-register"
+    ],
+    "คู่มือการใช้ห้องพยาบาล":[
+      "manual-firstaid",
+      "manual-libraly"
+    ],
+    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": [
+      "manual-statusterminalled"
+    ]
+  },
+  "manual-normalteacher": {
+    "คู่มือเกี่ยวกับเรื่องทั่วไป": [
+      "manual-login"
+    ],
+    "คู่มือเกี่ยวกับข้อมูลนักเรียน":[
+      "manual-addstudent",
+      "manual-homework",
+      "manual-decreasementpoint",
+      "manual-Health"
+    ],
+    "คู่มือเกี่ยวกับการลงเวลา":[
+      "manual-borrowsparecard",
+      "manual-studentclockin",
+      "manual-teacherclockin",
+      "manual-studentleave",
+      "manual-teacherleave",
+      "manual-schoolevent"
+    ],
+    "คู่มือเกี่ยวกับการแจ้งข่าวสาร":[
+      "manual-gpaannounce",
+      "manual-schoolnews"
+    ],
+    "คู่มือเกี่ยวกับวิชาเรียน" :[
+      "manual-timetablestudent",
+      "manual-timetableteacher",
+      "manual-attendancecheck",
+      "manual-leavedatebetween",
+      "manual-cancelteaching"
+    ],
+    "คู่มือการประเมินพฤติกรรมเด็ก":[
+      "manual-evaluationeq",
+      "manual-evaluationstatus"
+    ],
+    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน":[
+      "manual-timetable",
+      "manual-register"
+    ],
+    "คู่มือการใช้ห้องพยาบาล":[
+      "manual-firstaid",
+      "manual-libraly"
+    ],
+    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": [
+      "manual-statusterminalled"
     ]
   },
   "faq": {
