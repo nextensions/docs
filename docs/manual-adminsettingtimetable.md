@@ -1,5 +1,5 @@
 ---
-id: manual-adminsetting-timetable
+id: manual-adminsettingtimetable
 title: คู่มือการตั้งค่าตารางสอนสำหรับ Admin
 ---
 

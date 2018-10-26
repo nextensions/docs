@@ -51,7 +51,6 @@ const siteConfig = {
   headerIcon: "img/nextschool_invert.svg",
   footerIcon: "img/nextschool.svg",
   favicon: "img/favicon.png",
-  onPageNav: 'separate',
   /* colors for website */
   colors: {
     primaryColor: "#db5424",
@@ -71,7 +70,8 @@ const siteConfig = {
   algolia: {
     apiKey: "4fdd1e6cb553f663788dc3f2a3efd519",
     indexName: "nextschool"
-  }
+  },
+  onPageNav: 'separate'
 };
 
 module.exports = siteConfig;
