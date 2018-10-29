@@ -1,5 +1,5 @@
 {
-  "manual-normalteacher": {
+  "manual": {
     "คู่มือเกี่ยวกับเรื่องทั่วไป": [
       "manual-login"
     ],
@@ -45,20 +45,12 @@
       "manual-foodcourt"
     ],
     "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool":[
-      "manual-applicationforteacher"
-    ]
-  },
-  "manual-forparent":{
-    "คู่มือการใช้งาน Application Nextschool":[
-      "manual-applicationforparent"
-    ]
-  },
-  "manual-forstudent":{
-    "คู่มือการใช้งาน student.nextschool สำหรับนักเรียน":[
-      "manual-appnextschoolstudent"
-    ],
-    "คู่มือการใช้งาน Application Nextschool":[
+      "manual-applicationforteacher",
+      "manual-applicationforparent",
       "manual-applicationforstudent"
+    ],
+    "คู่มือการใช้งานเว็บ Student.nextschool":[
+      "manual-appnextschoolstudent"
     ]
   },
   "faq": {
