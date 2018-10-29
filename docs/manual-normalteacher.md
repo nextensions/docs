@@ -1,10 +1,8 @@
 ---
-id: manual
-title: คู่มือการใช้งาน
-sidebar_label: คู่มือการใช้งาน
+id: manual-normalteacher
+title: คู่มือการใช้งานสำหรับครูทั่วไป
 ---
 
-## สำหรับครู/อาจารย์
 ### คู่มือเกี่ยวกับเรื่องทั่วไป
 * [การเข้าสู่ระบบ](/docs/manual-login.html)
 
@@ -13,6 +11,14 @@ sidebar_label: คู่มือการใช้งาน
 * [การบ้าน](/docs/manual-homework.html)
 * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
+
+### คู่มือเกี่ยวกับการลงเวลา
+* [บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม](/docs/manual-studentclockin.html)
+* [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
+* [บันทึกการลาของนักเรียนแบบรายบุคคล และ การลาแบบรายกลุ่ม](/docs/manual-studentleave.html)
+* [บันทึกการลาของครู](/docs/manual-teacherleave.html)
+* [การสร้างกิจกรรมโรงเรียน](/docs/manual-schoolevent.html)
+* [การยืม-คืนบัตรสำรอง](/docs/manual-borrowsparecard.html)
 
 ### คู่มือเกี่ยวกับการแจ้งข่าวสาร
 * [แจ้งข่าวสาร GPA](/docs/manual-gpaannounce.html)
@@ -51,17 +57,3 @@ sidebar_label: คู่มือการใช้งาน
 
 ### คู่มือการดาวน์โหลดและใช้งาน Application Nextschool
 * [คู่มือการใช้งาน Application Nextschool บนมือถือ สำหรับคุณครู](/docs/manual-applicationforteacher.html)
-
-<br/>
-## สำหรับผู้ปกครอง
-### คู่มือการใช้งาน Application Nextschool
-* [คู่มือการใช้งาน Application Nextschool บนมือถือ สำหรับผู้ปกครอง](/docs/manual-applicationforparent.html)
-
-<br/>
-## สำหรับนักเรียน
-### คู่มือการใช้งานเว็บ Student.nextschool
-* [คู่มือการใช้งานระบบ Student.nextschool ของนักเรียน](/docs/manual-appnextschoolstudent.html)
-
-
-### คู่มือการใช้งาน Application Nextschool
-* [คู่มือการใช้งาน Application Nextschool บนมือถือ สำหรับนักเรียน](/docs/manual-applicationforstudent.html)

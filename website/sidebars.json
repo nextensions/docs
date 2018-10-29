@@ -1,37 +1,56 @@
 {
   "manual": {
-    "ครู/อาจารย์": [
-      "manual-login",
-      "manual-timetable",
+    "คู่มือเกี่ยวกับเรื่องทั่วไป": [
+      "manual-login"
+    ],
+    "คู่มือเกี่ยวกับข้อมูลนักเรียน":[
       "manual-addstudent",
+      "manual-homework",
+      "manual-decreasementpoint",
+      "manual-Health"
+    ],
+    "คู่มือเกี่ยวกับการลงเวลา":[
+      "manual-borrowsparecard",
       "manual-studentclockin",
       "manual-teacherclockin",
-      "manual-borrowsparecard",
       "manual-studentleave",
-      "manual-gpaannounce",
-      "manual-decreasementpoint",
-      "manual-schoolnews",
-      "manual-schedule",
-      "manual-timetableteacher",
-      "manual-timetablestudent",
-      "manual-leavedatebetween",
-      "manual-homework",
       "manual-teacherleave",
-      "manual-schoolevent",
-      "manual-Health",
-      "manual-attendancecheck",
+      "manual-schoolevent"
+    ],
+    "คู่มือเกี่ยวกับการแจ้งข่าวสาร":[
+      "manual-gpaannounce",
+      "manual-schoolnews"
+    ],
+    "คู่มือเกี่ยวกับวิชาเรียน" :[
+      "manual-timetablestudent",
+      "manual-timetableteacher",
+      "manual-leavedatebetween",
       "manual-cancelteaching",
-      "manual-evaluationeq",
-      "manual-evaluationstatus",
-      "manual-status-health-check",
-      "manual-estimate-sdq",
-      "manual-quick-estimate-sdq",
-      "manual-report-risk-sdq",
-      "manual-evaluationstatus",
+      "manual-adminsettingtimetable"
+    ],
+    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน":[
+      "manual-timetable",
       "manual-admission",
-      "manual-register",
+      "manual-register"
+    ],
+    "คู่มือการใช้ห้องพยาบาล":[
       "manual-firstaid",
       "manual-libraly"
+    ],
+    "คู่มือเกี่ยวกับระบบศูนย์อาหาร":[
+        "manual-foodcourtsystem"
+    ],
+    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": [
+      "manual-statusterminalled",
+      "manual-foodcourt"
+    ],
+    "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool":[
+      "manual-applicationforteacher",
+      "manual-applicationforparent",
+      "manual-applicationforstudent"
+    ],
+    "คู่มือการใช้งานเว็บ Student.nextschool":[
+      "manual-appnextschoolstudent"
     ]
   },
   "faq": {
