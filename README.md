@@ -8,3 +8,5 @@ GIT_USER=pangpond \
   USE_SSH=true \
   yarn run publish-gh-pages
 ```
+
+change custom domain to ```docs.nextschool.io```
