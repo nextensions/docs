@@ -25,6 +25,7 @@
       "manual-timetablestudent",
       "manual-timetableteacher",
       "manual-leavedatebetween",
+      "manual-attendancecheck",
       "manual-cancelteaching",
       "manual-adminsettingtimetable"
     ],
