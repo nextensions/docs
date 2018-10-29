@@ -25,8 +25,13 @@
       "manual-timetablestudent",
       "manual-timetableteacher",
       "manual-leavedatebetween",
+      "manual-attendancecheck",
       "manual-cancelteaching",
       "manual-adminsettingtimetable"
+    ],
+    "คู่มือการประเมินพฤติกรรม":[
+      "manual-evaluationeq",
+      "manual-evaluationstatus"
     ],
     "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน":[
       "manual-timetable",
@@ -36,6 +41,9 @@
     "คู่มือการใช้ห้องพยาบาล":[
       "manual-firstaid",
       "manual-libraly"
+    ],
+    "คู่มือการสั่งบัตรใหม่ผ่าน store":[
+        "manual-store"
     ],
     "คู่มือเกี่ยวกับระบบศูนย์อาหาร":[
         "manual-foodcourtsystem"

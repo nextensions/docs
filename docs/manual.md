@@ -14,6 +14,15 @@ sidebar_label: คู่มือการใช้งาน
 * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
 
+### คู่มือเกี่ยวกับการลงเวลา
+* [บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม](/docs/manual-studentclockin.html)
+* [บันทึกการลงเวลาของบุคลากรแบบ Manual ](/docs/manual-teacherclockin.html)
+* [บันทึกการลาของนักเรียนแบบรายบุคคล และ การลาแบบรายกลุ่ม](/docs/manual-studentleave.html)
+* [บันทึกการลาของครู](/docs/manual-teacherleave.html)
+* [การสร้างกิจกรรมโรงเรียน](/docs/manual-schoolevent.html)
+* [การยืม-คืนบัตรสำรอง](/docs/manual-borrowsparecard.html)
+
+
 ### คู่มือเกี่ยวกับการแจ้งข่าวสาร
 * [แจ้งข่าวสาร GPA](/docs/manual-gpaannounce.html)
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน](/docs/manual-schoolnews.html)
@@ -40,10 +49,10 @@ sidebar_label: คู่มือการใช้งาน
 * [การใช้งานระบบห้องสมุด](/docs/manual-libraly.html)
 
 ### คู่มือการสั่งบัตรใหม่ผ่าน store
-* [การสั่งบัตรใหม่และแจ้งพิมพ์บัตรใหม่ผ่าน Store](/docs/manual-store)
+* [การสั่งบัตรใหม่และแจ้งพิมพ์บัตรใหม่ผ่าน Store](/docs/manual-store.html)
 
 ### คู่มือเกี่ยวกับระบบศูนย์อาหาร
-* [คู่มือเกี่ยวกับระบบศูนย์อาหาร](/docs/manual-foodcourtsystem)
+* [คู่มือเกี่ยวกับระบบศูนย์อาหาร](/docs/manual-foodcourtsystem.html)
 
 ### คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ 
 * [คู่มือเกี่ยวกับเครื่องสแกนลงเวลา](/docs/manual-statusterminalled.html)
