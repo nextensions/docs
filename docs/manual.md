@@ -28,6 +28,7 @@ sidebar_label: คู่มือการใช้งาน
 * [การแจ้งข่าวสารแบบกลุ่ม แบบเดี่ยว แบบทั้งโรงเรียน](/docs/manual-schoolnews.html)
 
 ### คู่มือเกี่ยวกับวิชาเรียน
+* [ตารางสอน](/docs/manual-schedule.html)
 * [การจัดตารางสอนนักเรียน](/docs/manual-timetablestudent.html)
 * [การจัดตารางสอนครู](/docs/manual-timetableteacher.html)
 * [การลาระหว่างวัน](/docs/manual-leavedatebetween.html)
