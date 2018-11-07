@@ -1,6 +1,6 @@
 ---
 id: manual-adminsetting
-title: คู่มือการตั้งค่าระบบสำหรับ Admin
+title: คู่มือการตั้งค่าสำหรับผู้ดูแลระบบ
 ---
 
 ## ตั้งค่า Admin

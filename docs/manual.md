@@ -7,6 +7,7 @@ sidebar_label: คู่มือการใช้งาน
 ## สำหรับครู/อาจารย์
 ### คู่มือเกี่ยวกับเรื่องทั่วไป
 * [การเข้าสู่ระบบ](/docs/manual-login.html)
+* [การตั้งค่าสำหรับผู้ดูแลระบบ](/docs/manual-adminsetting.html)
 
 ### คู่มือเกี่ยวกับข้อมูลนักเรียน
 * [การเพิ่มข้อมูลนักเรียนเข้าใหม่](/docs/manual-addstudent.html)
@@ -37,8 +38,11 @@ sidebar_label: คู่มือการใช้งาน
 * [การตั้งค่าตารางสอนสำหรับ Admin](/docs/manual-adminsettingtimetable.html)
 
 ### คู่มือการประเมินพฤติกรรม
-* [การประเมินด่วน EQ](/docs/manual-evaluationeq.html)
+* [สถานะการประเมิน SDQ](/docs/manual-estimate-sdq.html)
+* [การประเมินด่วน SDQ](/docs/manual-quick-estimate-sdq.html)
+* [นักเรียนมีความเสี่ยง SDQ](/docs/manual-report-risk-sdq.html)
 * [สถานะการประเมิน EQ](/docs/manual-evaluationstatus.html)
+* [การประเมินด่วน EQ](/docs/manual-evaluationeq.html)
 
 ### คู่มือการรับสมัครนักเรียนและคู่มือช่วยจัดตารางสอน
 * [การช่วยจัดตารางสอน](/docs/manual-timetable.html)

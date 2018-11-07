@@ -1,7 +1,8 @@
 {
   "manual": {
     "คู่มือเกี่ยวกับเรื่องทั่วไป": [
-      "manual-login"
+      "manual-login",
+      "manual-adminsetting"
     ],
     "คู่มือเกี่ยวกับข้อมูลนักเรียน":[
       "manual-addstudent",
@@ -31,8 +32,11 @@
       "manual-adminsettingtimetable"
     ],
     "คู่มือการประเมินพฤติกรรม":[
-      "manual-evaluationeq",
-      "manual-evaluationstatus"
+      "manual-estimate-sdq",
+      "manual-quick-estimate-sdq",
+      "manual-report-risk-sdq",
+      "manual-evaluationstatus",
+      "manual-evaluationeq"
     ],
     "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน":[
       "manual-timetable",
