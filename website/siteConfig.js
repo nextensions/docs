@@ -70,7 +70,8 @@ const siteConfig = {
   algolia: {
     apiKey: "4fdd1e6cb553f663788dc3f2a3efd519",
     indexName: "nextschool"
-  }
+  },
+  onPageNav: 'separate'
 };
 
 module.exports = siteConfig;
