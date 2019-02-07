@@ -62,6 +62,7 @@ sidebar_label: คู่มือการใช้งาน
 ### คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ 
 * [คู่มือเกี่ยวกับเครื่องสแกนลงเวลา](/docs/manual-statusterminalled.html)
 * [คู่มือเกี่ยวกับเครื่องศูนย์อาหาร](/docs/manual-foodcourt.html)
+* [คู่มือเกี่ยวกับ SIC](/docs/manual-sic.html)
 
 ### คู่มือการดาวน์โหลดและใช้งาน Application Nextschool
 * [คู่มือการใช้งาน Application Nextschool บนมือถือ สำหรับคุณครู](/docs/manual-applicationforteacher.html)
