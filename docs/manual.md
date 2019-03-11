@@ -14,6 +14,7 @@ sidebar_label: คู่มือการใช้งาน
 * [การบ้าน](/docs/manual-homework.html)
 * [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 * [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
+* [แก้ไขสถานะนักเรียนแ](/docs/manual-editstatus.html)
 
 ### คู่มือเกี่ยวกับการลงเวลา
 * [บันทึกการลงเวลาของนักเรียนแบบ Manual และ แบบกลุ่ม](/docs/manual-studentclockin.html)
