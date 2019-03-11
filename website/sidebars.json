@@ -2,7 +2,8 @@
   "manual": {
     "คู่มือเกี่ยวกับเรื่องทั่วไป": [
       "manual-login",
-      "manual-adminsetting"
+      "manual-adminsetting",
+      "manual-yooyee"
     ],
     "คู่มือเกี่ยวกับข้อมูลนักเรียน":[
       "manual-addstudent",
