@@ -34,44 +34,44 @@ const users = [
 ];
 
 const siteConfig = {
-  title: "NextSchool" /* title for your website */,
-  tagline: "คู่มือระบบบริหารสถานศึกษาครบวงจร",
-  url: "http://docs.nextschool.io/" /* your website url */,
-  baseUrl: "/" /* base url for your project */,
-  projectName: "nextschool",
+  title: 'NextSchool' /* title for your website */,
+  tagline: 'คู่มือระบบบริหารสถานศึกษาครบวงจร',
+  url: 'http://docs.nextschool.io/' /* your website url */,
+  baseUrl: '/' /* base url for your project */,
+  projectName: 'nextschool',
   headerLinks: [
-    { doc: "manual", label: "คู่มือ" },
-    { doc: "system-overview", label: "คุณสมบัติ" },
-    { doc: "faq", label: "คำถามที่ถามบ่อย" },
-    { blog: true, label: "บล็อก" },
-    { search: true }
+    { doc: 'manual', label: 'คู่มือ' },
+    { doc: 'system-overview', label: 'คุณสมบัติ' },
+    { doc: 'faq', label: 'คำถามที่ถามบ่อย' },
+    // { blog: true, label: "บล็อก" },
+    { search: true },
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: "img/nextschool_invert.svg",
-  footerIcon: "img/nextschool.svg",
-  favicon: "img/favicon.png",
+  headerIcon: 'img/nextschool_invert.svg',
+  footerIcon: 'img/nextschool.svg',
+  favicon: 'img/favicon.png',
   /* colors for website */
   colors: {
-    primaryColor: "#db5424",
-    secondaryColor: "#fb642d"
+    primaryColor: '#db5424',
+    secondaryColor: '#fb642d',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
-  copyright: "Copyright © " + new Date().getFullYear() + " Nextgensoft",
-  organizationName: "nextensions", // or set an env variable ORGANIZATION_NAME
-  projectName: "docs", // or set an env variable PROJECT_NAME
+  copyright: 'Copyright © ' + new Date().getFullYear() + ' Nextgensoft',
+  organizationName: 'nextensions', // or set an env variable ORGANIZATION_NAME
+  projectName: 'docs', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
-    theme: "default"
+    theme: 'default',
   },
-  scripts: ["https://buttons.github.io/buttons.js"],
+  scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: "https://github.com/nextensions/NSDoc",
+  repoUrl: 'https://github.com/nextensions/NSDoc',
   algolia: {
-    apiKey: "4fdd1e6cb553f663788dc3f2a3efd519",
-    indexName: "nextschool"
+    apiKey: '4fdd1e6cb553f663788dc3f2a3efd519',
+    indexName: 'nextschool',
   },
-  onPageNav: 'separate'
+  onPageNav: 'separate',
 };
 
 module.exports = siteConfig;
