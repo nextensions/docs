@@ -1,17 +1,8 @@
 {
   "manual": {
-    "คู่มือเกี่ยวกับเรื่องทั่วไป": [
-      "manual-login",
-      "manual-adminsetting"
-    ],
-    "คู่มือเกี่ยวกับข้อมูลนักเรียน":[
-      "manual-addstudent",
-      "manual-homework",
-      "manual-decreasementpoint",
-      "manual-Health",
-      "manual-editstatus"
-    ],
-    "คู่มือเกี่ยวกับการลงเวลา":[
+    "คู่มือเกี่ยวกับเรื่องทั่วไป": ["manual-login", "manual-adminsetting"],
+    "คู่มือเกี่ยวกับข้อมูลนักเรียน": ["manual-addstudent", "manual-homework", "manual-decreasementpoint", "manual-Health", "manual-editstatus"],
+    "คู่มือเกี่ยวกับการลงเวลา": [
       "manual-borrowsparecard",
       "manual-studentclockin",
       "manual-teacherclockin",
@@ -19,11 +10,8 @@
       "manual-teacherleave",
       "manual-schoolevent"
     ],
-    "คู่มือเกี่ยวกับการแจ้งข่าวสาร":[
-      "manual-gpaannounce",
-      "manual-schoolnews"
-    ],
-    "คู่มือเกี่ยวกับวิชาเรียน" :[
+    "คู่มือเกี่ยวกับการแจ้งข่าวสาร": ["manual-gpaannounce", "manual-schoolnews"],
+    "คู่มือเกี่ยวกับวิชาเรียน": [
       "manual-schedule",
       "manual-timetablestudent",
       "manual-timetableteacher",
@@ -32,41 +20,20 @@
       "manual-cancelteaching",
       "manual-adminsettingtimetable"
     ],
-    "คู่มือการประเมินพฤติกรรม":[
+    "คู่มือการประเมินพฤติกรรม": [
       "manual-estimate-sdq",
       "manual-quick-estimate-sdq",
       "manual-report-risk-sdq",
       "manual-evaluationstatus",
       "manual-evaluationeq"
     ],
-    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน":[
-      "manual-timetable",
-      "manual-admission",
-      "manual-register"
-    ],
-    "คู่มือการใช้ห้องพยาบาล":[
-      "manual-firstaid",
-      "manual-libraly"
-    ],
-    "คู่มือการสั่งบัตรใหม่ผ่าน store":[
-        "manual-store"
-    ],
-    "คู่มือเกี่ยวกับระบบศูนย์อาหาร":[
-        "manual-foodcourtsystem"
-    ],
-    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": [
-      "manual-statusterminalled",
-      "manual-foodcourt",
-      "manual-sic"
-    ],
-    "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool":[
-      "manual-applicationforteacher",
-      "manual-applicationforparent",
-      "manual-applicationforstudent"
-    ],
-    "คู่มือการใช้งานเว็บ Student.nextschool":[
-      "manual-appnextschoolstudent"
-    ]
+    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน": ["manual-timetable", "manual-admission", "manual-register"],
+    "คู่มือการใช้ห้องพยาบาล": ["manual-firstaid", "manual-libraly"],
+    "คู่มือการสั่งบัตรใหม่ผ่าน store": ["manual-store"],
+    "คู่มือเกี่ยวกับระบบศูนย์อาหาร": ["manual-foodcourtsystem"],
+    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": ["manual-statusterminalled", "manual-foodcourt", "manual-sic"],
+    "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool": ["manual-applicationforteacher", "manual-applicationforparent", "manual-applicationforstudent"],
+    "คู่มือการใช้งานเว็บ Student.nextschool": ["manual-appnextschoolstudent"]
   },
   "faq": {
     "คำถามที่ถามบ่อย": [
@@ -110,47 +77,19 @@
       "faq-038-reportabsentteacher",
       "faq-039-reportgpa",
       "faq-040-reportnopic",
-      "faq-041-reportnocard"
+      "faq-041-reportnocard",
+      "faq-042-checkRFID"
     ]
   },
   "docs": {
-    "Docusaurus": [
-      "doc1"
-    ],
-    "First Category": [
-      "doc2"
-    ],
-    "Second Category": [
-      "doc3"
-    ]
+    "Docusaurus": ["doc1"],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
   },
   "docs-other": {
-    "คุณสมบัติของระบบ": [
-      "system-overview"
-    ],
-    "ระบบหลัก": [
-      "clockin",
-      "scaninclass",
-      "foodcourt"
-    ],
-    "ระบบใหม่ล่าสุด": [
-      "admission",
-      "library"
-    ],
-    "ระบบพื้นฐาน": [
-      "announce",
-      "gpa",
-      "behavior",
-      "homework",
-      "students",
-      "sdq",
-      "health",
-      "course",
-      "bi",
-      "report",
-      "parent",
-      "permission",
-      "settings"
-    ]
+    "คุณสมบัติของระบบ": ["system-overview"],
+    "ระบบหลัก": ["clockin", "scaninclass", "foodcourt"],
+    "ระบบใหม่ล่าสุด": ["admission", "library"],
+    "ระบบพื้นฐาน": ["announce", "gpa", "behavior", "homework", "students", "sdq", "health", "course", "bi", "report", "parent", "permission", "settings"]
   }
 }
