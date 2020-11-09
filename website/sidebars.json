@@ -78,7 +78,20 @@
       "faq-039-reportgpa",
       "faq-040-reportnopic",
       "faq-041-reportnocard",
-      "faq-042-checkRFID"
+      "faq-042-replaceCardOrder",
+      "faq-043-uploadPhoto",
+      "faq-044-payment",
+      "faq-045-cardDetailNotCorrect",
+      "faq-046-leave",
+      "faq-047-approveLeave",
+      "faq-048-deleteCheckTime",
+      "faq-049-approveLeaveAndDeleteCheckTime",
+      "faq-050-checkRFID",
+      "faq-051-changeStudentRoom",
+      "faq-052-changeTeacherPermission",
+      "faq-053-changeTeacherStatus",
+      "faq-054-changeClassroomTeacher",
+      "faq-055-studentCheckTimeDashboard"
     ]
   },
   "docs": {

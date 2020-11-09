@@ -202,8 +202,47 @@
         "title": "ข้อมูลนักเรียนไม่มีบัตร",
         "sidebar_label": "ข้อมูลนักเรียนไม่มีบัตร"
       },
-      "faq-042-checkRFID": {
+      "faq-042-replaceCardOrder": {
+        "title": "วิธีสั่งบัตร replace"
+      },
+      "faq-043-uploadPhoto": {
+        "title": "อัพรูปลงระบบไม่ได้ทำอย่างไร"
+      },
+      "faq-044-payment": {
+        "title": "แจ้งโอนเงินไม่ได้ทำอย่างไร"
+      },
+      "faq-045-cardDetailNotCorrect": {
+        "title": "ข้อมูลหน้าบัตรผิดทำไรอย่าง"
+      },
+      "faq-046-leave": {
+        "title": "การลาผ่านแอพ"
+      },
+      "faq-047-approveLeave": {
+        "title": "การอนุมัติการลาผ่านแอพ"
+      },
+      "faq-048-deleteCheckTime": {
+        "title": "ลบการลงเวลาของนักเรียน ที่ลงเวลาแบบ manual"
+      },
+      "faq-049-approveLeaveAndDeleteCheckTime": {
+        "title": "การอนุมัติการลาและลบการลาของนักเรียน"
+      },
+      "faq-050-checkRFID": {
         "title": "วิธีตรวจสอบรหัสบัตร"
+      },
+      "faq-051-changeStudentRoom": {
+        "title": "การย้ายห้องเรียน"
+      },
+      "faq-052-changeTeacherPermission": {
+        "title": "เปลี่ยนสิทธิการใช้งานบุคลากรทำอย่างไร"
+      },
+      "faq-053-changeTeacherStatus": {
+        "title": "เปลี่ยนสถานะบุคลากร"
+      },
+      "faq-054-changeClassroomTeacher": {
+        "title": "แก้ไขครูประจำชั้นทำอย่างไร"
+      },
+      "faq-055-studentCheckTimeDashboard": {
+        "title": "ดูหน้าเปอร์เซ็นการมาโรงเรียนของนักเรียนตรงไหน"
       },
       "faq": {
         "title": "คำถามที่ถามบ่อย",
