@@ -437,9 +437,50 @@
       },
       "timetable": {
         "title": "ระบบจัดตารางสอน"
+      },
+      "training-teacher-announce": {
+        "title": "เมนูแจ้งข่าวสาร",
+        "sidebar_label": "เมนูแจ้งข่าวสาร"
+      },
+      "training-teacher-behave": {
+        "title": "เมนูความประพฤติ",
+        "sidebar_label": "เมนูความประพฤติ"
+      },
+      "training-teacher-clockin": {
+        "title": "เมนูการลงเวลา",
+        "sidebar_label": "เมนูการลงเวลา"
+      },
+      "training-teacher-etc": {
+        "title": "เมนูอื่นๆ",
+        "sidebar_label": "เมนูอื่นๆ"
+      },
+      "training-teacher-leave": {
+        "title": "เมนูการลา",
+        "sidebar_label": "เมนูการลา"
+      },
+      "training-teacher-sdq-eq": {
+        "title": "เมนูSDQ/EQ",
+        "sidebar_label": "เมนูSDQ/EQ"
+      },
+      "training-teacher-start": {
+        "title": "เริ่มต้นการใช้งาน",
+        "sidebar_label": "เริ่มต้นการใช้งาน"
+      },
+      "training-teacher-student-menu": {
+        "title": "เมนูนักเรียน",
+        "sidebar_label": "เมนูนักเรียน"
+      },
+      "training-teacher-visit": {
+        "title": "เมนูเยี่ยมบ้าน",
+        "sidebar_label": "เมนูเยี่ยมบ้าน"
+      },
+      "training": {
+        "title": "อบรมการใช้งาน",
+        "sidebar_label": "อบรมการใช้งาน"
       }
     },
     "links": {
+      "อบรม": "อบรม",
       "คู่มือ": "คู่มือ",
       "คุณสมบัติ": "คุณสมบัติ",
       "คำถามที่ถามบ่อย": "คำถามที่ถามบ่อย"
@@ -458,6 +499,7 @@
       "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ",
       "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool": "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool",
       "คู่มือการใช้งานเว็บ Student.nextschool": "คู่มือการใช้งานเว็บ Student.nextschool",
+      "อบรมการใช้งาน ครู/อาจารย์ที่ปรึกษา": "อบรมการใช้งาน ครู/อาจารย์ที่ปรึกษา",
       "คำถามที่ถามบ่อย": "คำถามที่ถามบ่อย",
       "Docusaurus": "Docusaurus",
       "First Category": "First Category",

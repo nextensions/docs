@@ -40,6 +40,7 @@ const siteConfig = {
   baseUrl: '/' /* base url for your project */,
   projectName: 'nextschool',
   headerLinks: [
+    { doc: 'training', label: 'อบรม' },
     { doc: 'manual', label: 'คู่มือ' },
     { doc: 'system-overview', label: 'คุณสมบัติ' },
     { doc: 'faq', label: 'คำถามที่ถามบ่อย' },

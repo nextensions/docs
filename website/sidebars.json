@@ -1,7 +1,13 @@
 {
   "manual": {
     "คู่มือเกี่ยวกับเรื่องทั่วไป": ["manual-login", "manual-adminsetting"],
-    "คู่มือเกี่ยวกับข้อมูลนักเรียน": ["manual-addstudent", "manual-homework", "manual-decreasementpoint", "manual-Health", "manual-editstatus"],
+    "คู่มือเกี่ยวกับข้อมูลนักเรียน": [
+      "manual-addstudent",
+      "manual-homework",
+      "manual-decreasementpoint",
+      "manual-Health",
+      "manual-editstatus"
+    ],
     "คู่มือเกี่ยวกับการลงเวลา": [
       "manual-borrowsparecard",
       "manual-studentclockin",
@@ -10,7 +16,10 @@
       "manual-teacherleave",
       "manual-schoolevent"
     ],
-    "คู่มือเกี่ยวกับการแจ้งข่าวสาร": ["manual-gpaannounce", "manual-schoolnews"],
+    "คู่มือเกี่ยวกับการแจ้งข่าวสาร": [
+      "manual-gpaannounce",
+      "manual-schoolnews"
+    ],
     "คู่มือเกี่ยวกับวิชาเรียน": [
       "manual-schedule",
       "manual-timetablestudent",
@@ -27,13 +36,38 @@
       "manual-evaluationstatus",
       "manual-evaluationeq"
     ],
-    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน": ["manual-timetable", "manual-admission", "manual-register"],
+    "คู่มือการรับสมัครนักเรียนและโปรแกรมช่วยจัดตารางสอน": [
+      "manual-timetable",
+      "manual-admission",
+      "manual-register"
+    ],
     "คู่มือการใช้ห้องพยาบาล": ["manual-firstaid", "manual-libraly"],
     "คู่มือการสั่งบัตรใหม่ผ่าน store": ["manual-store"],
     "คู่มือเกี่ยวกับระบบศูนย์อาหาร": ["manual-foodcourtsystem"],
-    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": ["manual-statusterminalled", "manual-foodcourt", "manual-sic"],
-    "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool": ["manual-applicationforteacher", "manual-applicationforparent", "manual-applicationforstudent"],
+    "คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ": [
+      "manual-statusterminalled",
+      "manual-foodcourt",
+      "manual-sic"
+    ],
+    "คู่มือการดาวน์โหลดและใช้งาน Application Nextschool": [
+      "manual-applicationforteacher",
+      "manual-applicationforparent",
+      "manual-applicationforstudent"
+    ],
     "คู่มือการใช้งานเว็บ Student.nextschool": ["manual-appnextschoolstudent"]
+  },
+  "training": {
+    "อบรมการใช้งาน ครู/อาจารย์ที่ปรึกษา": [
+      "training-teacher-start",
+      "training-teacher-student-menu",
+      "training-teacher-behave",
+      "training-teacher-clockin",
+      "training-teacher-leave",
+      "training-teacher-announce",
+      "training-teacher-sdq-eq",
+      "training-teacher-visit",
+      "training-teacher-etc"
+    ]
   },
   "faq": {
     "คำถามที่ถามบ่อย": [
@@ -103,6 +137,20 @@
     "คุณสมบัติของระบบ": ["system-overview"],
     "ระบบหลัก": ["clockin", "scaninclass", "foodcourt"],
     "ระบบใหม่ล่าสุด": ["admission", "library"],
-    "ระบบพื้นฐาน": ["announce", "gpa", "behavior", "homework", "students", "sdq", "health", "course", "bi", "report", "parent", "permission", "settings"]
+    "ระบบพื้นฐาน": [
+      "announce",
+      "gpa",
+      "behavior",
+      "homework",
+      "students",
+      "sdq",
+      "health",
+      "course",
+      "bi",
+      "report",
+      "parent",
+      "permission",
+      "settings"
+    ]
   }
 }
