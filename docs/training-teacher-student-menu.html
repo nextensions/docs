@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>เมนูนักเรียน · NextSchool</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="1.**ข้อมูลนักเรียน** เป็นส่วนที่ระบบแสดงรายชื่อของนักเรียนทั้งหมดทุกห้องทุกชั้นปี และสามารถเข้าไปดูหรือแก้ไขข้อมูลของนักเรียนคนนั้นๆได้ เริ่มต้นใช้งานโดย"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="เมนูนักเรียน · NextSchool"/><meta property="og:type" content="website"/><meta property="og:url" content="http://docs.nextschool.io//index.html"/><meta property="og:description" content="1.**ข้อมูลนักเรียน** เป็นส่วนที่ระบบแสดงรายชื่อของนักเรียนทั้งหมดทุกห้องทุกชั้นปี และสามารถเข้าไปดูหรือแก้ไขข้อมูลของนักเรียนคนนั้นๆได้ เริ่มต้นใช้งานโดย"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/img/favicon.png"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/js/scrollSpy.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/"><img class="logo" src="/img/nextschool_invert.svg" alt="NextSchool"/><h2 class="headerTitleWithLogo">NextSchool</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/docs/training.html" target="_self">อบรม</a></li><li class=""><a href="/docs/manual.html" target="_self">คู่มือ</a></li><li class=""><a href="/docs/system-overview.html" target="_self">คุณสมบัติ</a></li><li class=""><a href="/docs/faq.html" target="_self">คำถามที่ถามบ่อย</a></li><li class="navSearchWrapper reactNavSearchWrapper"><input type="text" id="search_input_react" placeholder="Search" title="Search"/></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>อบรมการใช้งาน ครู/อาจารย์ที่ปรึกษา</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">อบรมการใช้งาน ครู/อาจารย์ที่ปรึกษา</h3><ul class=""><li class="navListItem"><a class="navItem" href="/docs/training-teacher-start.html">เริ่มต้นการใช้งาน</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/docs/training-teacher-student-menu.html">เมนูนักเรียน</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-behave.html">เมนูความประพฤติ</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-clockin.html">เมนูการลงเวลา</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-leave.html">เมนูการลา</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-announce.html">เมนูแจ้งข่าวสาร</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-sdq-eq.html">เมนูSDQ/EQ</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-visit.html">เมนูเยี่ยมบ้าน</a></li><li class="navListItem"><a class="navItem" href="/docs/training-teacher-etc.html">เมนูอื่นๆ</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">เมนูนักเรียน</h1></header><article><div><span><p>1.<strong>ข้อมูลนักเรียน</strong> เป็นส่วนที่ระบบแสดงรายชื่อของนักเรียนทั้งหมดทุกห้องทุกชั้นปี และสามารถเข้าไปดูหรือแก้ไขข้อมูลของนักเรียนคนนั้นๆได้ เริ่มต้นใช้งานโดย</p>
+<ol>
+<li>ช่องสำหรับค้นหา โดยสามารถใส่ตัวอักษรเพื่อให้ระบบทำการค้นหานักเรียนได้</li>
+<li>ช่องค้นหาแบบตัวเลือก จะมีตัวเลือกปรากฏขึ้นเมื่อคลิก เช่น คลิกที่ ช่องระดับ ระบบจะโชว์ตัวเลือกตั้งแต่ ม.1-ม.6 เมื่อกดคลิกเลือกที่ ม.6 ระบบจะแสดงผลเฉพาะนักเรียน ม.6 เท่านั้น</li>
+<li>สัญลักษณ์รูปดวงตาใช้สำหรับดูข้อมูล รายละเอียดของนักเรียน</li>
+<li>สัญลักษณ์รูปดินสอใช้สำหรับอัพเดทหรือแก้ไขข้อมูลของนักเรียนคนนั้น</li>
+<li>เครื่องหมายบวก ใช้สำหรับเพิ่มข้อมูลนักเรียน เช่น กรณีมีนักเรียนย้ายเข้ามาใหม่ ต้องการเพิ่มนักเรียนคนนั้นเข้าระบบ</li>
+</ol>
+<p><img src="https://i.imgur.com/Khk95kP.png" alt=""></p>
+<p>1.1 เมื่อคลิกที่สัญลักษณ์รูปดวงตาจะสามารถดูข้อมูลนักเรียนได้
+<img src="https://i.imgur.com/PdeErPn.png" alt=""></p>
+<p>ตัวอย่างไฟล์ประวัตินักเรียน
+<img src="https://i.imgur.com/exxhM5b.jpg" alt="">
+1.2 เมื่อคลิกที่สัญลักษ์รูปดินสอ หรือเลือกที่แก้ไข จะสามารถแก้ไขข้อมูลของนักเรียนได้ ใช้ในกรณีที่ข้อมูลนักเรียนผิดพลาด นักเรียนเปลี่ยนชื่อ การกำหนดช่วงเวลาเรียน หรือการเปลี่ยนสถานะนักเรียน เป็นต้น</p>
+<p>1.2.1 ข้อมูลทั่วไป ประกอบด้วยรูปภาพนักเรียน ข้อมูลพื้นฐานของนักเรียน สามารถแก้ไขได้ ดังนี้</p>
+<ol>
+<li>ข้อมูลพื้นฐาน</li>
+<li>โรงเรียนสามารถอัพโหลดไฟล์รูปภาพนักเรียนได้เองโดยกด &quot;เลือกไฟล์ที่ช่องรูปภาพ&quot;</li>
+<li>สามารถกำหนดสถานะนักเรียนได้ เช่น ลาออก แขวนลอย พ้นสภาพนักเรียน เป็นต้น</li>
+<li>สามารถกำหนดช่วงเวลาเรียนได้ กรณีที่เวลามาเรียนของนักเรียนคนนั้นแตกต่างจากคนอื่น</li>
+</ol>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/docs/training-teacher-start.html"><span class="arrow-prev">← </span><span>เริ่มต้นการใช้งาน</span></a><a class="docs-next button" href="/docs/training-teacher-behave.html"><span>เมนูความประพฤติ</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/" class="nav-home"><img src="/img/nextschool.svg" alt="NextSchool" width="66" height="58"/></a><div><h5>คู่มือ</h5><a href="/docs/manual.html">โรงเรียน/สถานศึกษา</a><a href="/docs/manual.html#สำหรับครูอาจารย์">ครูอาจารย์/บุคลากร</a><a href="/docs/manual.html#สำหรับผู้ปกครอง">ผู้ปกครอง/นักเรียน</a></div><div><h5>คุณสมบัติ</h5><a href="/docs/clockin.html">ระบบบันทึกเวลา</a><a href="/docs/scaninclass.html">ระบบเช็คชื่อรายวิชา</a><a href="/docs/foodcourt.html">ระบบศูนย์อาหาร</a></div><div><h5>อื่นๆ</h5><a href="https://www.nextschool.io/?ref=docs">Nextschool.io</a></div></section><a href="https://code.facebook.com/projects/" target="_blank" class="fbOpenSource"><img src="/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2021 Nextgensoft Co., Ltd.</section></footer></div><script type="text/javascript" src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script><script>
+                document.addEventListener('keyup', function(e) {
+                  if (e.target !== document.body) {
+                    return;
+                  }
+                  // keyCode for '/' (slash)
+                  if (e.keyCode === 191) {
+                    const search = document.getElementById('search_input_react');
+                    search && search.focus();
+                  }
+                });
+              </script><script>
+              var search = docsearch({
+                
+                apiKey: '4fdd1e6cb553f663788dc3f2a3efd519',
+                indexName: 'nextschool',
+                inputSelector: '#search_input_react'
+              });
+            </script></body></html>
