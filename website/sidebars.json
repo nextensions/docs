@@ -125,7 +125,27 @@
       "faq-052-changeTeacherPermission",
       "faq-053-changeTeacherStatus",
       "faq-054-changeClassroomTeacher",
-      "faq-055-studentCheckTimeDashboard"
+      "faq-055-studentCheckTimeDashboard",
+      "faq-056-topupTeacher",
+      "faq-057-deleteAbsent",
+      "faq-058-linkCardPersonnel",
+      "faq-059-deleteAutoPresent",
+      "faq-060-fixE-01-E-07",
+      "faq-061-requestLeaveEarly",
+      "faq-062-editParentInfo",
+      "faq-063-informTransferMoney",
+      "faq-064-rateEQ",
+      "faq-065-createInvitationParent",
+      "faq-066-topupOnlineApp",
+      "faq-067-homeVisit",
+      "faq-068-screeningStudent",
+      "faq-069-rateStudent",
+      "faq-070-lateExeption",
+      "faq-071-rateSDQ&EQInApp",
+      "faq-072-checkinStudentInApp",
+      "faq-073-editOrAddPhoneStudent",
+      "faq-074-OTPlocked",
+      "faq-075-searchStudentApp"
     ]
   },
   "docs": {

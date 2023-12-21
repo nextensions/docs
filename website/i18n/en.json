@@ -244,6 +244,66 @@
       "faq-055-studentCheckTimeDashboard": {
         "title": "ดูหน้าเปอร์เซ็นการมาโรงเรียนของนักเรียนตรงไหน"
       },
+      "faq-056-topupTeacher": {
+        "title": "วิธีเติมเงินออนไลน์ของอาจารย์ทำอย่างไร"
+      },
+      "faq-057-deleteAbsent": {
+        "title": "วิธีลบวันลาทำอย่างไร"
+      },
+      "faq-058-linkCardPersonnel": {
+        "title": "วิธีผูกบัตรบุคลากรทำอย่างไร"
+      },
+      "faq-059-deleteAutoPresent": {
+        "title": "การลบเวลาการมาโรงเรียนอัตโนมัติ"
+      },
+      "faq-060-fixE-01-E-07": {
+        "title": "การแก้ไขเมื่อขึ้นรหัส E-01-E-07"
+      },
+      "faq-061-requestLeaveEarly": {
+        "title": "การขออนุญาตออกนอกบริเวณโรงเรียนก่อนเวลา"
+      },
+      "faq-062-editParentInfo": {
+        "title": "วิธีแก้ไขข้อมูลผู้ปกครอง"
+      },
+      "faq-063-informTransferMoney": {
+        "title": "วิธีแจ้งโอนเงิน"
+      },
+      "faq-064-rateEQ": {
+        "title": "ประเมิน EQ อย่างไร"
+      },
+      "faq-065-createInvitationParent": {
+        "title": "สร้างหนังสือเชิญผู้ปกครองอย่างไร"
+      },
+      "faq-066-topupOnlineApp": {
+        "title": "เติมเงินออนไลน์ผ่าน App ทำอย่างไร"
+      },
+      "faq-067-homeVisit": {
+        "title": "เยี่ยมบ้านทำอย่างไร"
+      },
+      "faq-068-screeningStudent": {
+        "title": "คัดกรองนักเรียนทำอย่างไร"
+      },
+      "faq-069-rateStudent": {
+        "title": "ประเมินนักเรียนทำอย่างไร"
+      },
+      "faq-070-lateExeption": {
+        "title": "ละเว้นการตัดคะแนนมาสาย"
+      },
+      "faq-071-rateSDQ&EQInApp": {
+        "title": "ประเมิน SDQ&EQ ใน app"
+      },
+      "faq-072-checkinStudentInApp": {
+        "title": "เช็คชื่อนักเรียนใน app"
+      },
+      "faq-073-editOrAddPhoneStudent": {
+        "title": "แก้ไขหรือเพิ่มเบอร์โทรนักเรียนทำอย่างไร"
+      },
+      "faq-074-OTPlocked": {
+        "title": "OTP โดนล็อคทำอย่างไร"
+      },
+      "faq-075-searchStudentApp": {
+        "title": "ค้นหานักเรียน บน app"
+      },
       "faq": {
         "title": "คำถามที่ถามบ่อย",
         "sidebar_label": "คำถามที่ถามบ่อย"
