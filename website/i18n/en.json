@@ -269,7 +269,7 @@
         "title": "วิธีแจ้งโอนเงิน"
       },
       "faq-064-rateEQ": {
-        "title": "ประเมิน EQ อย่างไร"
+        "title": "ประเมิน EQ&SDQ ใน App"
       },
       "faq-065-createInvitationParent": {
         "title": "สร้างหนังสือเชิญผู้ปกครองอย่างไร"
@@ -289,20 +289,17 @@
       "faq-070-lateExeption": {
         "title": "ละเว้นการตัดคะแนนมาสาย"
       },
-      "faq-071-rateSDQ&EQInApp": {
-        "title": "ประเมิน SDQ&EQ ใน app"
+      "faq-071-searchStudentApp": {
+        "title": "ค้นหานักเรียน บน App"
       },
       "faq-072-checkinStudentInApp": {
-        "title": "เช็คชื่อนักเรียนใน app"
+        "title": "เช็คชื่อนักเรียนใน App"
       },
       "faq-073-editOrAddPhoneStudent": {
         "title": "แก้ไขหรือเพิ่มเบอร์โทรนักเรียนทำอย่างไร"
       },
       "faq-074-OTPlocked": {
         "title": "OTP โดนล็อคทำอย่างไร"
-      },
-      "faq-075-searchStudentApp": {
-        "title": "ค้นหานักเรียน บน app"
       },
       "faq": {
         "title": "คำถามที่ถามบ่อย",
