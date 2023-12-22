@@ -78,3 +78,4 @@ sidebar_label: คำถามที่ถามบ่อย
 - [เช็คชื่อนักเรียนใน App](/docs/faq-072-checkinStudentInApp.html)
 - [แก้ไขหรือเพิ่มเบอร์โทรนักเรียนทำอย่างไร](/docs/faq-073-editOrAddPhoneStudent.html)
 - [OTP โดนล็อคทำอย่างไร](/docs/faq-074-OTPlocked.html)
+- [วิธีตรวจการสั่งออเดอร์บัตรย้อนหลัง](/docs/faq-075-checkOrder.html)
