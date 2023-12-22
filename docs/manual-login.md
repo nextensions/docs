@@ -8,7 +8,7 @@ sidebar_label: การเข้าสู่ระบบ
 
 ![](/img/manual/login/GoogleChrome.png) Google Chrome
 
-![](/img/manual/login/firefox.png) FrieFox
+![](/img/manual/login/firefox.png) FireFox
 
 1.  เปิดโปรแกรม Google Chrome พิมพ์ URL ดังนี้ [app.nextschool.io]() แล้วกด Enter เข้าไปยังเว็ปไซต์(หรือกดที่ลิ้งของเราได้เลย)
 

@@ -24,7 +24,7 @@ title: การใช้งานระบบ Student.nextschool สำหร�
 ![](https://drive.google.com/thumbnail?id=1F0Gcy9lk69Uile0_xc-1aEIWKMiPCgR5&sz=w800-h640)
     * ครูผู้ดูแล
 ![](https://drive.google.com/thumbnail?id=1IB1-m2-KxjFZGz9gldEoE-yhwkow39iw&sz=w800-h640)
-    * ตางรางสอน
+    * ตารางสอน
 ![](https://drive.google.com/thumbnail?id=1skBy8691ijobCmwcKYwR02VVJxoSGyZ9&sz=w800-h640)
 * รับสมัคร
     * รับสมัคร ชุมนุม

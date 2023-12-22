@@ -17,7 +17,7 @@ sidebar_label: คู่มือการใช้งาน
 - [การบ้าน](/docs/manual-homework.html)
 - [บันทึกการตัดคะแนนของนักเรียน](/docs/manual-decreasementpoint.html)
 - [การบันทึกข้อมูลสุขภาพ](/docs/manual-Health.html)
-- [แก้ไขสถานะนักเรียนแ](/docs/manual-editstatus.html)
+- [แก้ไขสถานะนักเรียน](/docs/manual-editstatus.html)
 
 ### คู่มือเกี่ยวกับการลงเวลา
 
@@ -71,7 +71,7 @@ sidebar_label: คู่มือการใช้งาน
 
 - [คู่มือเกี่ยวกับระบบศูนย์อาหาร](/docs/manual-foodcourtsystem.html)
 
-### คู่มือเกี่ยวกับครื่องสแกนบัตรและ Hardware ต่าง ๆ
+### คู่มือเกี่ยวกับเครื่องสแกนบัตรและ Hardware ต่าง ๆ
 
 - [คู่มือเกี่ยวกับเครื่องสแกนลงเวลา](/docs/manual-statusterminalled.html)
 - [คู่มือเกี่ยวกับเครื่องศูนย์อาหาร](/docs/manual-foodcourt.html)
