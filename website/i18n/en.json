@@ -256,8 +256,8 @@
       "faq-059-deleteAutoPresent": {
         "title": "การลบเวลาการมาโรงเรียนอัตโนมัติ"
       },
-      "faq-060-fixE-01-E-07": {
-        "title": "การแก้ไขเมื่อขึ้นรหัส E-01-E-07"
+      "faq-060-fixE-0": {
+        "title": "การแก้ไขเมื่อขึ้นรหัส E-0"
       },
       "faq-061-requestLeaveEarly": {
         "title": "การขออนุญาตออกนอกบริเวณโรงเรียนก่อนเวลา"
@@ -286,7 +286,7 @@
       "faq-069-rateStudent": {
         "title": "ประเมินนักเรียนทำอย่างไร"
       },
-      "faq-070-lateExeption": {
+      "faq-070-lateException": {
         "title": "ละเว้นการตัดคะแนนมาสาย"
       },
       "faq-071-searchStudentApp": {
