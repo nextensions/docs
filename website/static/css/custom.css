@@ -44,6 +44,14 @@ nav.toc .toggleNav ul li a {
   border-bottom: 1px solid #d1d1d1;
 }
 
+@media (min-width:768px){
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+}
+
 .container .wrapper h3,
 .mainContainer .wrapper .post h3 {
   color: #616161;
